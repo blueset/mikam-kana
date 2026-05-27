@@ -1,0 +1,2866 @@
+{
+  "version":8,
+  "font":{
+    "glyphsCount":205,
+    "upm":2058,
+    "glyphs":[
+      {
+        "name":".notdef",
+        "lastModified":"2024-11-16 00:14:32",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1351,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "1021 -418",
+                        "1021 1865",
+                        "330 1865",
+                        "330 -418"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "515 322",
+                        "836 322",
+                        "836 64",
+                        "515 64"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "515 707",
+                        "579 707",
+                        "579 515",
+                        "772 515",
+                        "772 643",
+                        "707 643",
+                        "707 579",
+                        "643 579",
+                        "643 707",
+                        "836 707",
+                        "836 450",
+                        "515 450"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "515 -193",
+                        "732 -64",
+                        "515 -64",
+                        "515 0",
+                        "836 0",
+                        "836 -65",
+                        "620 -193",
+                        "836 -193",
+                        "836 -257",
+                        "515 -257"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "515 1415",
+                        "707 1415",
+                        "707 1254",
+                        "836 1254",
+                        "836 1190",
+                        "515 1190"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "515 1544",
+                        "627 1544",
+                        "627 1640",
+                        "515 1640",
+                        "515 1704",
+                        "836 1704",
+                        "836 1640",
+                        "691 1640",
+                        "691 1544",
+                        "836 1544",
+                        "836 1479",
+                        "515 1479"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "515 965",
+                        "643 965",
+                        "643 1061",
+                        "515 1061",
+                        "515 1125",
+                        "836 1125",
+                        "836 1061",
+                        "707 1061",
+                        "707 900",
+                        "515 900"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "515 836",
+                        "772 836",
+                        "772 997",
+                        "836 997",
+                        "836 772",
+                        "515 772"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "772 129",
+                        "772 257",
+                        "579 257",
+                        "579 129"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "643 1254",
+                        "643 1351",
+                        "579 1351",
+                        "579 1254"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-418.031,
+                "thickness":160.781
+              },
+              {
+                "horizontal":true,
+                "position":-192.938,
+                "thickness":128.625
+              },
+              {
+                "horizontal":true,
+                "thickness":64.3125
+              },
+              {
+                "horizontal":true,
+                "position":128.625,
+                "thickness":128.625
+              },
+              {
+                "horizontal":true,
+                "position":321.563,
+                "thickness":128.625
+              },
+              {
+                "horizontal":true,
+                "position":514.5,
+                "thickness":64.3125
+              },
+              {
+                "horizontal":true,
+                "position":707.438,
+                "thickness":64.3125
+              },
+              {
+                "horizontal":true,
+                "position":836.063,
+                "thickness":64.3125
+              },
+              {
+                "horizontal":true,
+                "position":964.688,
+                "thickness":96.4688
+              },
+              {
+                "horizontal":true,
+                "position":996.844,
+                "thickness":64.3125
+              },
+              {
+                "horizontal":true,
+                "position":1125.47,
+                "thickness":64.3125
+              },
+              {
+                "horizontal":true,
+                "position":1254.09,
+                "thickness":96.4688
+              },
+              {
+                "horizontal":true,
+                "position":1414.88,
+                "thickness":64.3125
+              },
+              {
+                "horizontal":true,
+                "position":1543.5,
+                "thickness":96.4688
+              },
+              {
+                "horizontal":true,
+                "position":1704.28,
+                "thickness":160.781
+              },
+              {
+                "vertical":true,
+                "position":329.602,
+                "thickness":184.898
+              },
+              {
+                "vertical":true,
+                "position":329.602,
+                "thickness":297.445
+              },
+              {
+                "vertical":true,
+                "position":329.602,
+                "thickness":313.523
+              },
+              {
+                "vertical":true,
+                "position":578.813,
+                "thickness":64.3125
+              },
+              {
+                "vertical":true,
+                "position":578.813,
+                "thickness":192.938
+              },
+              {
+                "vertical":true,
+                "position":691.359,
+                "thickness":329.602
+              },
+              {
+                "vertical":true,
+                "position":707.438,
+                "thickness":64.3125
+              },
+              {
+                "vertical":true,
+                "position":707.438,
+                "thickness":313.523
+              },
+              {
+                "vertical":true,
+                "position":836.063,
+                "thickness":184.898
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"space",
+        "unicodes":[
+          32,
+          0
+        ],
+        "lastModified":"2024-11-16 00:14:32",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1206
+          }
+        ]
+      },
+      {
+        "name":"asmall-hira",
+        "unicode":"3041",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1310
+          }
+        ]
+      },
+      {
+        "name":"a-hira",
+        "unicode":"3042",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"ismall-hira",
+        "unicode":"3043",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1359
+          }
+        ]
+      },
+      {
+        "name":"i-hira",
+        "unicode":"3044",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"usmall-hira",
+        "unicode":"3045",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":973
+          }
+        ]
+      },
+      {
+        "name":"u-hira",
+        "unicode":"3046",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1230
+          }
+        ]
+      },
+      {
+        "name":"esmall-hira",
+        "unicode":"3047",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1294
+          }
+        ]
+      },
+      {
+        "name":"e-hira",
+        "unicode":"3048",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1616
+          }
+        ]
+      },
+      {
+        "name":"osmall-hira",
+        "unicode":"3049",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1359
+          }
+        ]
+      },
+      {
+        "name":"o-hira",
+        "unicode":"304a",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"ka-hira",
+        "unicode":"304b",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"ga-hira",
+        "unicode":"304c",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1712
+          }
+        ]
+      },
+      {
+        "name":"ki-hira",
+        "unicode":"304d",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1552
+          }
+        ]
+      },
+      {
+        "name":"gi-hira",
+        "unicode":"304e",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1648
+          }
+        ]
+      },
+      {
+        "name":"ku-hira",
+        "unicode":"304f",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1037
+          }
+        ]
+      },
+      {
+        "name":"gu-hira",
+        "unicode":"3050",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1294
+          }
+        ]
+      },
+      {
+        "name":"ke-hira",
+        "unicode":"3051",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"ge-hira",
+        "unicode":"3052",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1712
+          }
+        ]
+      },
+      {
+        "name":"ko-hira",
+        "unicode":"3053",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1423
+          }
+        ]
+      },
+      {
+        "name":"go-hira",
+        "unicode":"3054",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1584
+          }
+        ]
+      },
+      {
+        "name":"sa-hira",
+        "unicode":"3055",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1423
+          }
+        ]
+      },
+      {
+        "name":"za-hira",
+        "unicode":"3056",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1584
+          }
+        ]
+      },
+      {
+        "name":"si-hira",
+        "unicode":"3057",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1487
+          }
+        ]
+      },
+      {
+        "name":"zi-hira",
+        "unicode":"3058",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1487
+          }
+        ]
+      },
+      {
+        "name":"su-hira",
+        "unicode":"3059",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1744
+          }
+        ]
+      },
+      {
+        "name":"zu-hira",
+        "unicode":"305a",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1744
+          }
+        ]
+      },
+      {
+        "name":"se-hira",
+        "unicode":"305b",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1744
+          }
+        ]
+      },
+      {
+        "name":"ze-hira",
+        "unicode":"305c",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1744
+          }
+        ]
+      },
+      {
+        "name":"so-hira",
+        "unicode":"305d",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1535
+          }
+        ]
+      },
+      {
+        "name":"zo-hira",
+        "unicode":"305e",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1640
+          }
+        ]
+      },
+      {
+        "name":"ta-hira",
+        "unicode":"305f",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1616
+          }
+        ]
+      },
+      {
+        "name":"da-hira",
+        "unicode":"3060",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1616
+          }
+        ]
+      },
+      {
+        "name":"ti-hira",
+        "unicode":"3061",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1568
+          }
+        ]
+      },
+      {
+        "name":"di-hira",
+        "unicode":"3062",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1616
+          }
+        ]
+      },
+      {
+        "name":"tusmall-hira",
+        "unicode":"3063",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1294
+          }
+        ]
+      },
+      {
+        "name":"tu-hira",
+        "unicode":"3064",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1616
+          }
+        ]
+      },
+      {
+        "name":"du-hira",
+        "unicode":"3065",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"te-hira",
+        "unicode":"3066",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1616
+          }
+        ]
+      },
+      {
+        "name":"de-hira",
+        "unicode":"3067",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"to-hira",
+        "unicode":"3068",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1294
+          }
+        ]
+      },
+      {
+        "name":"do-hira",
+        "unicode":"3069",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1519
+          }
+        ]
+      },
+      {
+        "name":"na-hira",
+        "unicode":"306a",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1761
+          }
+        ]
+      },
+      {
+        "name":"ni-hira",
+        "unicode":"306b",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1616
+          }
+        ]
+      },
+      {
+        "name":"nu-hira",
+        "unicode":"306c",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1744
+          }
+        ]
+      },
+      {
+        "name":"ne-hira",
+        "unicode":"306d",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1825
+          }
+        ]
+      },
+      {
+        "name":"no-hira",
+        "unicode":"306e",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"ha-hira",
+        "unicode":"306f",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1761
+          }
+        ]
+      },
+      {
+        "name":"ba-hira",
+        "unicode":"3070",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1761
+          }
+        ]
+      },
+      {
+        "name":"pa-hira",
+        "unicode":"3071",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1761
+          }
+        ]
+      },
+      {
+        "name":"hi-hira",
+        "unicode":"3072",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"bi-hira",
+        "unicode":"3073",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1712
+          }
+        ]
+      },
+      {
+        "name":"pi-hira",
+        "unicode":"3074",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1712
+          }
+        ]
+      },
+      {
+        "name":"hu-hira",
+        "unicode":"3075",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"bu-hira",
+        "unicode":"3076",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"pu-hira",
+        "unicode":"3077",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"he-hira",
+        "unicode":"3078",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"be-hira",
+        "unicode":"3079",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"pe-hira",
+        "unicode":"307a",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"ho-hira",
+        "unicode":"307b",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1761
+          }
+        ]
+      },
+      {
+        "name":"bo-hira",
+        "unicode":"307c",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1761
+          }
+        ]
+      },
+      {
+        "name":"po-hira",
+        "unicode":"307d",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1761
+          }
+        ]
+      },
+      {
+        "name":"ma-hira",
+        "unicode":"307e",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1552
+          }
+        ]
+      },
+      {
+        "name":"mi-hira",
+        "unicode":"307f",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1825
+          }
+        ]
+      },
+      {
+        "name":"mu-hira",
+        "unicode":"3080",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"me-hira",
+        "unicode":"3081",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"mo-hira",
+        "unicode":"3082",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1568
+          }
+        ]
+      },
+      {
+        "name":"yasmall-hira",
+        "unicode":"3083",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1423
+          }
+        ]
+      },
+      {
+        "name":"ya-hira",
+        "unicode":"3084",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1744
+          }
+        ]
+      },
+      {
+        "name":"yusmall-hira",
+        "unicode":"3085",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1359
+          }
+        ]
+      },
+      {
+        "name":"yu-hira",
+        "unicode":"3086",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1761
+          }
+        ]
+      },
+      {
+        "name":"yosmall-hira",
+        "unicode":"3087",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1230
+          }
+        ]
+      },
+      {
+        "name":"yo-hira",
+        "unicode":"3088",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1552
+          }
+        ]
+      },
+      {
+        "name":"ra-hira",
+        "unicode":"3089",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1423
+          }
+        ]
+      },
+      {
+        "name":"ri-hira",
+        "unicode":"308a",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1294
+          }
+        ]
+      },
+      {
+        "name":"ru-hira",
+        "unicode":"308b",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1568
+          }
+        ]
+      },
+      {
+        "name":"re-hira",
+        "unicode":"308c",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1825
+          }
+        ]
+      },
+      {
+        "name":"ro-hira",
+        "unicode":"308d",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1568
+          }
+        ]
+      },
+      {
+        "name":"wasmall-hira",
+        "unicode":"308e",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1423
+          }
+        ]
+      },
+      {
+        "name":"wa-hira",
+        "unicode":"308f",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1744
+          }
+        ]
+      },
+      {
+        "name":"wi-hira",
+        "unicode":"3090",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1761
+          }
+        ]
+      },
+      {
+        "name":"we-hira",
+        "unicode":"3091",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1761
+          }
+        ]
+      },
+      {
+        "name":"wo-hira",
+        "unicode":"3092",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1552
+          }
+        ]
+      },
+      {
+        "name":"n-hira",
+        "unicode":"3093",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"vu-hira",
+        "unicode":"3094",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1696
+          }
+        ]
+      },
+      {
+        "name":"kasmall-hira",
+        "unicode":"3095",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1383
+          }
+        ]
+      },
+      {
+        "name":"kesmall-hira",
+        "unicode":"3096",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1391
+          }
+        ]
+      },
+      {
+        "name":"iteration-hira",
+        "unicode":"309d",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1511
+          }
+        ]
+      },
+      {
+        "name":"voicediteration-hira",
+        "unicode":"309e",
+        "lastModified":"2026-05-27 12:51:05",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1439
+          }
+        ]
+      },
+      {
+        "name":"asmall-kata",
+        "unicode":"30a1",
+        "lastModified":"2026-05-27 12:51:47",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1206
+          }
+        ]
+      },
+      {
+        "name":"a-kata",
+        "unicode":"30a2",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1552
+          }
+        ]
+      },
+      {
+        "name":"ismall-kata",
+        "unicode":"30a3",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1166
+          }
+        ]
+      },
+      {
+        "name":"i-kata",
+        "unicode":"30a4",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1487
+          }
+        ]
+      },
+      {
+        "name":"usmall-kata",
+        "unicode":"30a5",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1206
+          }
+        ]
+      },
+      {
+        "name":"u-kata",
+        "unicode":"30a6",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1527
+          }
+        ]
+      },
+      {
+        "name":"esmall-kata",
+        "unicode":"30a7",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1230
+          }
+        ]
+      },
+      {
+        "name":"e-kata",
+        "unicode":"30a8",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1552
+          }
+        ]
+      },
+      {
+        "name":"osmall-kata",
+        "unicode":"30a9",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1359
+          }
+        ]
+      },
+      {
+        "name":"o-kata",
+        "unicode":"30aa",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1576
+          }
+        ]
+      },
+      {
+        "name":"ka-kata",
+        "unicode":"30ab",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1471
+          }
+        ]
+      },
+      {
+        "name":"ga-kata",
+        "unicode":"30ac",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1648
+          }
+        ]
+      },
+      {
+        "name":"ki-kata",
+        "unicode":"30ad",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"gi-kata",
+        "unicode":"30ae",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1712
+          }
+        ]
+      },
+      {
+        "name":"ku-kata",
+        "unicode":"30af",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1423
+          }
+        ]
+      },
+      {
+        "name":"gu-kata",
+        "unicode":"30b0",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1584
+          }
+        ]
+      },
+      {
+        "name":"ke-kata",
+        "unicode":"30b1",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1616
+          }
+        ]
+      },
+      {
+        "name":"ge-kata",
+        "unicode":"30b2",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"ko-kata",
+        "unicode":"30b3",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1423
+          }
+        ]
+      },
+      {
+        "name":"go-kata",
+        "unicode":"30b4",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1584
+          }
+        ]
+      },
+      {
+        "name":"sa-kata",
+        "unicode":"30b5",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"za-kata",
+        "unicode":"30b6",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1712
+          }
+        ]
+      },
+      {
+        "name":"si-kata",
+        "unicode":"30b7",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"zi-kata",
+        "unicode":"30b8",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1712
+          }
+        ]
+      },
+      {
+        "name":"su-kata",
+        "unicode":"30b9",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1576
+          }
+        ]
+      },
+      {
+        "name":"zu-kata",
+        "unicode":"30ba",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"se-kata",
+        "unicode":"30bb",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"ze-kata",
+        "unicode":"30bc",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1712
+          }
+        ]
+      },
+      {
+        "name":"so-kata",
+        "unicode":"30bd",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1552
+          }
+        ]
+      },
+      {
+        "name":"zo-kata",
+        "unicode":"30be",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1648
+          }
+        ]
+      },
+      {
+        "name":"ta-kata",
+        "unicode":"30bf",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1423
+          }
+        ]
+      },
+      {
+        "name":"da-kata",
+        "unicode":"30c0",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1487
+          }
+        ]
+      },
+      {
+        "name":"ti-kata",
+        "unicode":"30c1",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1616
+          }
+        ]
+      },
+      {
+        "name":"di-kata",
+        "unicode":"30c2",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1616
+          }
+        ]
+      },
+      {
+        "name":"tusmall-kata",
+        "unicode":"30c3",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1190
+          }
+        ]
+      },
+      {
+        "name":"tu-kata",
+        "unicode":"30c4",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1511
+          }
+        ]
+      },
+      {
+        "name":"du-kata",
+        "unicode":"30c5",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1648
+          }
+        ]
+      },
+      {
+        "name":"te-kata",
+        "unicode":"30c6",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1576
+          }
+        ]
+      },
+      {
+        "name":"de-kata",
+        "unicode":"30c7",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"to-kata",
+        "unicode":"30c8",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1455
+          }
+        ]
+      },
+      {
+        "name":"do-kata",
+        "unicode":"30c9",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1487
+          }
+        ]
+      },
+      {
+        "name":"na-kata",
+        "unicode":"30ca",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1648
+          }
+        ]
+      },
+      {
+        "name":"ni-kata",
+        "unicode":"30cb",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1535
+          }
+        ]
+      },
+      {
+        "name":"nu-kata",
+        "unicode":"30cc",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1487
+          }
+        ]
+      },
+      {
+        "name":"ne-kata",
+        "unicode":"30cd",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"no-kata",
+        "unicode":"30ce",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1359
+          }
+        ]
+      },
+      {
+        "name":"ha-kata",
+        "unicode":"30cf",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1744
+          }
+        ]
+      },
+      {
+        "name":"ba-kata",
+        "unicode":"30d0",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1744
+          }
+        ]
+      },
+      {
+        "name":"pa-kata",
+        "unicode":"30d1",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1712
+          }
+        ]
+      },
+      {
+        "name":"hi-kata",
+        "unicode":"30d2",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1343
+          }
+        ]
+      },
+      {
+        "name":"bi-kata",
+        "unicode":"30d3",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1455
+          }
+        ]
+      },
+      {
+        "name":"pi-kata",
+        "unicode":"30d4",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1519
+          }
+        ]
+      },
+      {
+        "name":"hu-kata",
+        "unicode":"30d5",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1391
+          }
+        ]
+      },
+      {
+        "name":"bu-kata",
+        "unicode":"30d6",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1552
+          }
+        ]
+      },
+      {
+        "name":"pu-kata",
+        "unicode":"30d7",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1552
+          }
+        ]
+      },
+      {
+        "name":"he-kata",
+        "unicode":"30d8",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"be-kata",
+        "unicode":"30d9",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"pe-kata",
+        "unicode":"30da",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"ho-kata",
+        "unicode":"30db",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"bo-kata",
+        "unicode":"30dc",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1712
+          }
+        ]
+      },
+      {
+        "name":"po-kata",
+        "unicode":"30dd",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"ma-kata",
+        "unicode":"30de",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1552
+          }
+        ]
+      },
+      {
+        "name":"mi-kata",
+        "unicode":"30df",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1230
+          }
+        ]
+      },
+      {
+        "name":"mu-kata",
+        "unicode":"30e0",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"me-kata",
+        "unicode":"30e1",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1423
+          }
+        ]
+      },
+      {
+        "name":"mo-kata",
+        "unicode":"30e2",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1552
+          }
+        ]
+      },
+      {
+        "name":"yasmall-kata",
+        "unicode":"30e3",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1359
+          }
+        ]
+      },
+      {
+        "name":"ya-kata",
+        "unicode":"30e4",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"yusmall-kata",
+        "unicode":"30e5",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1359
+          }
+        ]
+      },
+      {
+        "name":"yu-kata",
+        "unicode":"30e6",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"yosmall-kata",
+        "unicode":"30e7",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1037
+          }
+        ]
+      },
+      {
+        "name":"yo-kata",
+        "unicode":"30e8",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1294
+          }
+        ]
+      },
+      {
+        "name":"ra-kata",
+        "unicode":"30e9",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1423
+          }
+        ]
+      },
+      {
+        "name":"ri-kata",
+        "unicode":"30ea",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1206
+          }
+        ]
+      },
+      {
+        "name":"ru-kata",
+        "unicode":"30eb",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"re-kata",
+        "unicode":"30ec",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1552
+          }
+        ]
+      },
+      {
+        "name":"ro-kata",
+        "unicode":"30ed",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1487
+          }
+        ]
+      },
+      {
+        "name":"wasmall-kata",
+        "unicode":"30ee",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1198
+          }
+        ]
+      },
+      {
+        "name":"wa-kata",
+        "unicode":"30ef",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1552
+          }
+        ]
+      },
+      {
+        "name":"wi-kata",
+        "unicode":"30f0",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"we-kata",
+        "unicode":"30f1",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      },
+      {
+        "name":"wo-kata",
+        "unicode":"30f2",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1455
+          }
+        ]
+      },
+      {
+        "name":"n-kata",
+        "unicode":"30f3",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1535
+          }
+        ]
+      },
+      {
+        "name":"vu-kata",
+        "unicode":"30f4",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1616
+          }
+        ]
+      },
+      {
+        "name":"kasmall-kata",
+        "unicode":"30f5",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1190
+          }
+        ]
+      },
+      {
+        "name":"kesmall-kata",
+        "unicode":"30f6",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1359
+          }
+        ]
+      },
+      {
+        "name":"va-kata",
+        "unicode":"30f7",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1873
+          }
+        ]
+      },
+      {
+        "name":"vi-kata",
+        "unicode":"30f8",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1978
+          }
+        ]
+      },
+      {
+        "name":"ve-kata",
+        "unicode":"30f9",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1986
+          }
+        ]
+      },
+      {
+        "name":"vo-kata",
+        "unicode":"30fa",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1897
+          }
+        ]
+      },
+      {
+        "name":"iteration-kata",
+        "unicode":"30fd",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1535
+          }
+        ]
+      },
+      {
+        "name":"voicediteration-kata",
+        "unicode":"30fe",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1535
+          }
+        ]
+      },
+      {
+        "name":"kusmall-kata",
+        "unicode":"31f0",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1190
+          }
+        ]
+      },
+      {
+        "name":"sismall-kata",
+        "unicode":"31f1",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1294
+          }
+        ]
+      },
+      {
+        "name":"susmall-kata",
+        "unicode":"31f2",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1246
+          }
+        ]
+      },
+      {
+        "name":"tosmall-kata",
+        "unicode":"31f3",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1190
+          }
+        ]
+      },
+      {
+        "name":"nusmall-kata",
+        "unicode":"31f4",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1125
+          }
+        ]
+      },
+      {
+        "name":"hasmall-kata",
+        "unicode":"31f5",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1375
+          }
+        ]
+      },
+      {
+        "name":"hismall-kata",
+        "unicode":"31f6",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1190
+          }
+        ]
+      },
+      {
+        "name":"husmall-kata",
+        "unicode":"31f7",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1109
+          }
+        ]
+      },
+      {
+        "name":"hesmall-kata",
+        "unicode":"31f8",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1375
+          }
+        ]
+      },
+      {
+        "name":"hosmall-kata",
+        "unicode":"31f9",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1407
+          }
+        ]
+      },
+      {
+        "name":"musmall-kata",
+        "unicode":"31fa",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1343
+          }
+        ]
+      },
+      {
+        "name":"rasmall-kata",
+        "unicode":"31fb",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1214
+          }
+        ]
+      },
+      {
+        "name":"rismall-kata",
+        "unicode":"31fc",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1069
+          }
+        ]
+      },
+      {
+        "name":"rusmall-kata",
+        "unicode":"31fd",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1375
+          }
+        ]
+      },
+      {
+        "name":"resmall-kata",
+        "unicode":"31fe",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1238
+          }
+        ]
+      },
+      {
+        "name":"rosmall-kata",
+        "unicode":"31ff",
+        "lastModified":"2026-05-27 12:51:50",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1375
+          }
+        ]
+      },
+      {
+        "name":"voicedcomb-hira",
+        "unicode":"3099",
+        "lastModified":"2026-05-27 12:53:48",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1029
+          }
+        ]
+      },
+      {
+        "name":"semivoicedcomb-hira",
+        "unicode":"309a",
+        "lastModified":"2026-05-27 12:53:48",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1029
+          }
+        ]
+      },
+      {
+        "name":"voiced-hira",
+        "unicode":"309b",
+        "lastModified":"2026-05-27 12:53:48",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1029
+          }
+        ]
+      },
+      {
+        "name":"semivoiced-hira",
+        "unicode":"309c",
+        "lastModified":"2026-05-27 12:53:48",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1029
+          }
+        ]
+      },
+      {
+        "name":"dblhyphen-kata",
+        "unicode":"30a0",
+        "lastModified":"2026-05-27 12:53:57",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":2058
+          }
+        ]
+      },
+      {
+        "name":"middledot-kata",
+        "unicode":"30fb",
+        "lastModified":"2026-05-27 12:53:57",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":2058
+          }
+        ]
+      },
+      {
+        "name":"prolongedkana-kata",
+        "unicode":"30fc",
+        "lastModified":"2026-05-27 12:53:57",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":1680
+          }
+        ]
+      }
+    ],
+    "defaultMaster":"Regular",
+    "interpolationFlags":0,
+    "openTypeFeatures":[
+      {
+        "feature":"###\n# OpenType Layout feature definitions\n# Format: Adobe FDK for OpenType (AFDKO) version 2.5\n# Generated on: 2026-5-27 12:52\n# Generated by: FontLab 8.0.0\n# Font path: C:/Users/ilove/Codebase/mikam-kana/MìkamKana.vfj\n# Font PostScript name: Unnamed-Regular\n# Font copyright: Copyright 2025 Eana Hufwe, 1A23 StudioCopyright 2016 The Inter Project Authors\n#\n# Totals:\n# Languagesystems: 0\n# GSUB lookups: 0\n# GPOS lookups: 0\n\n#\n# Languagesystem definitions\n#\n\n#> languagesystem\nlanguagesystem DFLT dflt;\nlanguagesystem latn dflt;\nlanguagesystem kana dflt;\n#< languagesystem\n\n\n#\n# Lookup definitions\n#\n\n\n"
+      }
+    ],
+    "hinting":{
+    },
+    "info":{
+      "tfn":"Mìkam Kana",
+      "sgn":"Mìkam Kana",
+      "creationDate":"2026/05/27 19:48:47",
+      "copyright":"Copyright 2025 Eana Hufwe, 1A23 Studio\nCopyright 2016 The Inter Project Authors",
+      "trademark":"Inter UI and Inter is a trademark of rsms.",
+      "designer":"Eana Hufwe; Rasmus Andersson",
+      "designerURL":"https://1a23.studio/",
+      "license":"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+      "licenseURL":"http://scripts.sil.org/OFL",
+      "manufacturer":"1A23 Studio",
+      "manufacturerURL":"https://1a23.studio/",
+      "vendorID":"1A23",
+      "versionMajor":0,
+      "versionMinor":1,
+      "version":"Version 4.001; Inter Version 4.001+git-9221beed3",
+      "codepageRange":"0000000000000000",
+      "unicodeRange":"00000000000000000000000000000000",
+      "embedding":"0000"
+    },
+    "meta":{
+      "metaCreator":true,
+      "metaFormatVersion":8,
+      "metaBuild":"8950"
+    },
+    "settings":{
+      "settings.RoundCoordinates":"round"
+    },
+    "masters":[
+      {
+        "fontMaster":{
+          "name":"Regular",
+          "tsn":"Regular",
+          "sgn":"Mìkam Kana",
+          "ffn":"Mìkam Kana Regular",
+          "psn":"MikamKana-Regular",
+          "weight_name":"Regular",
+          "width_name":"Normal",
+          "slope_name":"Plain",
+          "ascender":1994,
+          "descender":-496,
+          "xHeight":1123,
+          "capsHeight":1497,
+          "measurement":250,
+          "weight":400,
+          "width":5,
+          "safeTop":1994,
+          "safeBottom":496,
+          "underlineThickness":141,
+          "underlinePosition":-350,
+          "curveTension":0.598,
+          "cornerTension":0.67,
+          "inktrapLen":4,
+          "panose":"2 0 5 3 0 0 0 2 0 4",
+          "otherData":{
+            "DistanceX":102,
+            "DistanceY":102,
+            "HintingMaxH":515,
+            "HintingMaxV":515,
+            "HintingMinH":41,
+            "HintingMinV":41,
+            "OS2UseTypoMetrics":false,
+            "OpticalLeft":0,
+            "OpticalRight":0,
+            "ProcessLoops":false,
+            "TtHinter":1,
+            "TtHorizSmoothing":0,
+            "TtNoSmoothing":0,
+            "TtaFamilyAlign":0,
+            "TtaHintComposites":true,
+            "TtaHintingLimit":200,
+            "TtaHintingRangeMax":50,
+            "TtaHintingRangeMin":8,
+            "TtaIncreaseXHeight":11,
+            "TtaNoClipping":true,
+            "TtaSharpDw":false,
+            "TtaSharpGdi":true,
+            "TtaSharpGray":false,
+            "hhea_ascender":1994,
+            "hhea_descender":-496,
+            "hhea_line_gap":0,
+            "hhea_use_custom":false,
+            "hinting.forceBold":0,
+            "strikeout_position":674,
+            "strikeout_size":141,
+            "subscript_x_offset":0,
+            "subscript_x_size":1337,
+            "subscript_y_offset":155,
+            "subscript_y_size":1235,
+            "superscript_x_offset":0,
+            "superscript_x_size":1337,
+            "superscript_y_offset":721,
+            "superscript_y_size":1235
+          },
+          "hintingParameters":{
+            "blueFuzz":0,
+            "blueShift":16,
+            "blueScale":0.03129167
+          },
+          "kerning":{
+          },
+          "fontZonesT":[
+            {
+              "position":1118,
+              "value":24,
+              "name":"xhgt",
+              "tagsString":"lc"
+            },
+            {
+              "position":1490,
+              "value":24,
+              "name":"fig",
+              "tagsString":"asc,fig,uc"
+            }
+          ],
+          "fontZonesB":[
+            {
+              "position":0,
+              "value":24,
+              "name":"base"
+            }
+          ],
+          "fontStemsH":[
+            {
+              "value":160,
+              "name":"std.Hstem"
+            }
+          ],
+          "fontStemsV":[
+            {
+              "value":185,
+              "name":"std.Vstem"
+            }
+          ],
+          "measurements":{
+            "ItalicAngle":"0",
+            "Tension":"60",
+            "Ascender":"750",
+            "Descender":"-250",
+            "CapsHeight":"700",
+            "XHeight":"500",
+            "UT":"50",
+            "UP":"-100"
+          }
+        }
+      }
+    ]
+  }
+}
