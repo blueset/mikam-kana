@@ -613,7 +613,7 @@
       {
         "name":"i-hira",
         "unicode":"3044",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -686,7 +686,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "guidelines":[
@@ -720,7 +721,7 @@
       {
         "name":"u-hira",
         "unicode":"3046",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -755,7 +756,7 @@
       {
         "name":"vu-hira",
         "unicode":"3094",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -875,7 +876,7 @@
       {
         "name":"e-hira",
         "unicode":"3048",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -992,7 +993,7 @@
       {
         "name":"o-hira",
         "unicode":"304a",
-        "lastModified":"2026-05-30 17:15:45",
+        "lastModified":"2026-05-30 18:04:37",
         "layers":[
           {
             "name":"Regular",
@@ -1113,7 +1114,7 @@
       {
         "name":"ka-hira",
         "unicode":"304b",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -1157,7 +1158,7 @@
       {
         "name":"ga-hira",
         "unicode":"304c",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -1211,19 +1212,22 @@
       {
         "name":"ki-hira",
         "unicode":"304d",
-        "lastModified":"2026-05-30 17:15:45",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
             "autoRecipe":"tbar+brevecomb",
             "flags":0,
-            "advanceWidth":673,
+            "advanceWidth":763,
             "elements":[
               {
                 "elementData":{
                   "component":{
                     "glyphName":"tbar"
                   }
+                },
+                "transform":{
+                  "xOffset":50
                 }
               },
               {
@@ -1233,25 +1237,23 @@
                   }
                 },
                 "transform":{
-                  "xOffset":-50,
                   "yOffset":-1740
                 },
-                "nonSpacing":true,
-                "active":true
+                "nonSpacing":true
               }
             ],
             "anchors":[
               {
                 "name":"m.uni0326",
-                "point":"379 0"
+                "point":"429 0"
               },
               {
                 "name":"m.uni0327",
-                "point":"433 0"
+                "point":"483 0"
               },
               {
-                "name":"t.uni030F_2",
-                "point":"279 1390"
+                "name":"t.uni030F",
+                "point":"350 1391"
               }
             ]
           }
@@ -1260,27 +1262,26 @@
       {
         "name":"gi-hira",
         "unicode":"304e",
-        "lastModified":"2026-05-30 17:24:30",
+        "lastModified":"2026-05-30 18:16:30",
         "layers":[
           {
             "name":"Regular",
             "autoRecipe":"ki-hira+voicedcomb-hira",
-            "flags":0,
-            "advanceWidth":673,
+            "flags":16,
+            "advanceWidth":763,
             "elements":[
               {
                 "component":{
                   "glyphName":"ki-hira"
-                },
-                "active":true
+                }
               },
               {
                 "component":{
                   "glyphName":"voicedcomb-hira"
                 },
                 "transform":{
-                  "xOffset":-329,
-                  "yOffset":267
+                  "xOffset":-258,
+                  "yOffset":268
                 },
                 "nonSpacing":true
               }
@@ -1288,15 +1289,15 @@
             "anchors":[
               {
                 "name":"m.uni0326",
-                "point":"379 0"
+                "point":"429 0"
               },
               {
                 "name":"m.uni0327",
-                "point":"433 0"
+                "point":"483 0"
               },
               {
                 "name":"t.uni030F_2",
-                "point":"279 1813"
+                "point":"350 1814"
               }
             ]
           }
@@ -1305,7 +1306,7 @@
       {
         "name":"ku-hira",
         "unicode":"304f",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular:c",
@@ -1339,7 +1340,7 @@
       {
         "name":"gu-hira",
         "unicode":"3050",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -1498,7 +1499,7 @@
       {
         "name":"ge-hira",
         "unicode":"3052",
-        "lastModified":"2026-05-30 17:24:30",
+        "lastModified":"2026-05-30 18:03:46",
         "layers":[
           {
             "name":"Regular",
@@ -1534,7 +1535,7 @@
       {
         "name":"ko-hira",
         "unicode":"3053",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "colorFlag":240,
         "layers":[
           {
@@ -1547,10 +1548,8 @@
             "metricsRight":"|s",
             "elements":[
               {
-                "elementData":{
-                  "component":{
-                    "glyphName":"tonetwo"
-                  }
+                "component":{
+                  "glyphName":"tonetwo"
                 }
               }
             ],
@@ -1574,7 +1573,7 @@
       {
         "name":"go-hira",
         "unicode":"3054",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -1667,7 +1666,7 @@
       {
         "name":"za-hira",
         "unicode":"3056",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -1774,7 +1773,7 @@
       {
         "name":"zi-hira",
         "unicode":"3058",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -1813,13 +1812,13 @@
       {
         "name":"su-hira",
         "unicode":"3059",
-        "lastModified":"2026-05-30 15:36:48",
+        "lastModified":"2026-05-30 18:04:37",
         "layers":[
           {
             "name":"Regular",
             "autoRecipe":"dcroat+dotlessj",
             "flags":0,
-            "advanceWidth":1260,
+            "advanceWidth":1300,
             "elements":[
               {
                 "elementData":{
@@ -1946,13 +1945,13 @@
       {
         "name":"zu-hira",
         "unicode":"305a",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
             "autoRecipe":"su-hira+voicedcomb-hira",
             "flags":16,
-            "advanceWidth":1260,
+            "advanceWidth":1300,
             "elements":[
               {
                 "component":{
@@ -2076,7 +2075,7 @@
       {
         "name":"ze-hira",
         "unicode":"305c",
-        "lastModified":"2026-05-30 16:55:37",
+        "lastModified":"2026-05-30 18:03:46",
         "layers":[
           {
             "name":"Regular",
@@ -2116,7 +2115,7 @@
       {
         "name":"so-hira",
         "unicode":"305d",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -2125,8 +2124,10 @@
             "advanceWidth":1137,
             "elements":[
               {
-                "component":{
-                  "glyphName":"zbar"
+                "elementData":{
+                  "component":{
+                    "glyphName":"zbar"
+                  }
                 }
               }
             ],
@@ -2146,7 +2147,7 @@
       {
         "name":"zo-hira",
         "unicode":"305e",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -2185,14 +2186,14 @@
       {
         "name":"ta-hira",
         "unicode":"305f",
-        "lastModified":"2026-05-30 16:20:10",
+        "lastModified":"2026-05-30 18:04:37",
         "layers":[
           {
             "name":"Regular",
             "autoRecipe":"f_ko-hira",
             "flags":0,
-            "advanceWidth":1649,
-            "metricsLeft":"f",
+            "advanceWidth":1699,
+            "metricsLeft":"f+50",
             "metricsRight":"ko-hira",
             "elements":[
               {
@@ -2200,6 +2201,9 @@
                   "component":{
                     "glyphName":"f"
                   }
+                },
+                "transform":{
+                  "xOffset":50
                 }
               },
               {
@@ -2209,7 +2213,7 @@
                   }
                 },
                 "transform":{
-                  "xOffset":562
+                  "xOffset":612
                 },
                 "active":true
               }
@@ -2217,15 +2221,15 @@
             "anchors":[
               {
                 "name":"m.uni0326",
-                "point":"1295 0"
+                "point":"1345 0"
               },
               {
                 "name":"t.uni030F",
-                "point":"1109 1123"
+                "point":"1159 1123"
               },
               {
                 "name":"m.uni0327",
-                "point":"1116 0"
+                "point":"1166 0"
               }
             ]
           }
@@ -2234,12 +2238,12 @@
       {
         "name":"da-hira",
         "unicode":"3060",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
             "flags":16,
-            "advanceWidth":1649,
+            "advanceWidth":1699,
             "metricsLeft":"ta-hira",
             "metricsRight":"ta-hira",
             "elements":[
@@ -2253,7 +2257,7 @@
                   "glyphName":"voicedcomb-hira"
                 },
                 "transform":{
-                  "xOffset":501
+                  "xOffset":551
                 },
                 "nonSpacing":true
               }
@@ -2261,15 +2265,15 @@
             "anchors":[
               {
                 "name":"m.uni0326",
-                "point":"1295 0"
+                "point":"1345 0"
               },
               {
                 "name":"m.uni0327",
-                "point":"1116 0"
+                "point":"1166 0"
               },
               {
                 "name":"t.uni030F_2",
-                "point":"1109 1546"
+                "point":"1159 1546"
               }
             ]
           }
@@ -2307,7 +2311,7 @@
       {
         "name":"di-hira",
         "unicode":"3062",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -2343,7 +2347,7 @@
       {
         "name":"tusmall-hira",
         "unicode":"3063",
-        "lastModified":"2026-05-30 15:36:48",
+        "lastModified":"2026-05-30 18:04:37",
         "layers":[
           {
             "name":"Regular",
@@ -2453,7 +2457,7 @@
       {
         "name":"du-hira",
         "unicode":"3065",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -2586,7 +2590,7 @@
       {
         "name":"de-hira",
         "unicode":"3067",
-        "lastModified":"2026-05-30 17:24:30",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -2630,13 +2634,13 @@
       {
         "name":"to-hira",
         "unicode":"3068",
-        "lastModified":"2026-05-30 15:36:48",
+        "lastModified":"2026-05-30 18:04:37",
         "layers":[
           {
             "name":"Regular",
             "autoRecipe":"c+gravecomb",
             "flags":0,
-            "advanceWidth":1176,
+            "advanceWidth":1207,
             "elements":[
               {
                 "elementData":{
@@ -2665,38 +2669,41 @@
                     }
                   ]
                 },
+                "transform":{
+                  "xOffset":21
+                },
                 "active":true
               }
             ],
             "hints":[
               {
                 "horizontal":true,
-                "position":-24.1172,
+                "position":-24,
                 "thickness":161.786
               },
               {
                 "horizontal":true,
-                "position":975.741,
+                "position":976,
                 "thickness":161.786
               },
               {
                 "vertical":true,
-                "position":104.508,
+                "position":126,
                 "thickness":183.894
               }
             ],
             "anchors":[
               {
                 "name":"m.uni0326",
-                "point":"616 0"
+                "point":"637 0"
               },
               {
                 "name":"m.uni0327",
-                "point":"616 0"
+                "point":"637 0"
               },
               {
                 "name":"t.uni030F",
-                "point":"616 1123"
+                "point":"637 1123"
               }
             ]
           }
@@ -2705,13 +2712,13 @@
       {
         "name":"do-hira",
         "unicode":"3069",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
             "autoRecipe":"to-hira+voicedcomb-hira",
             "flags":16,
-            "advanceWidth":1176,
+            "advanceWidth":1207,
             "elements":[
               {
                 "component":{
@@ -2723,7 +2730,7 @@
                   "glyphName":"voicedcomb-hira"
                 },
                 "transform":{
-                  "xOffset":8
+                  "xOffset":29
                 },
                 "nonSpacing":true
               }
@@ -2731,15 +2738,15 @@
             "anchors":[
               {
                 "name":"m.uni0326",
-                "point":"616 0"
+                "point":"637 0"
               },
               {
                 "name":"m.uni0327",
-                "point":"616 0"
+                "point":"637 0"
               },
               {
                 "name":"t.uni030F_2",
-                "point":"616 1546"
+                "point":"637 1546"
               }
             ]
           }
@@ -2748,18 +2755,20 @@
       {
         "name":"na-hira",
         "unicode":"306a",
-        "lastModified":"2026-05-30 15:36:48",
+        "lastModified":"2026-05-30 18:16:48",
         "layers":[
           {
             "name":"Regular",
             "autoRecipe":"f_j",
             "flags":0,
-            "advanceWidth":1249,
-            "metricsRight":"=jcrosstail",
+            "advanceWidth":1329,
             "elements":[
               {
                 "component":{
                   "glyphName":"f"
+                },
+                "transform":{
+                  "xOffset":20
                 }
               },
               {
@@ -2767,19 +2776,18 @@
                   "glyphName":"jcrosstail"
                 },
                 "transform":{
-                  "xOffset":536
-                },
-                "active":true
+                  "xOffset":556
+                }
               }
             ],
             "anchors":[
               {
                 "name":"m.uni0326",
-                "point":"332 0"
+                "point":"352 0"
               },
               {
                 "name":"t.uni030F",
-                "point":"410 1560"
+                "point":"430 1560"
               }
             ]
           }
@@ -2788,7 +2796,7 @@
       {
         "name":"ni-hira",
         "unicode":"306b",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -3349,7 +3357,7 @@
       {
         "name":"ba-hira",
         "unicode":"3070",
-        "lastModified":"2026-05-30 16:55:37",
+        "lastModified":"2026-05-30 18:03:46",
         "layers":[
           {
             "name":"Regular",
@@ -3441,7 +3449,7 @@
       {
         "name":"hi-hira",
         "unicode":"3072",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -3450,8 +3458,10 @@
             "advanceWidth":1217,
             "elements":[
               {
-                "component":{
-                  "glyphName":"u"
+                "elementData":{
+                  "component":{
+                    "glyphName":"u"
+                  }
                 }
               }
             ],
@@ -3475,7 +3485,7 @@
       {
         "name":"bi-hira",
         "unicode":"3073",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -3514,7 +3524,7 @@
       {
         "name":"pi-hira",
         "unicode":"3074",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -3556,7 +3566,7 @@
       {
         "name":"hu-hira",
         "unicode":"3075",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -3598,7 +3608,7 @@
       {
         "name":"bu-hira",
         "unicode":"3076",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -3652,7 +3662,7 @@
       {
         "name":"pu-hira",
         "unicode":"3077",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -3702,7 +3712,7 @@
       {
         "name":"he-hira",
         "unicode":"3078",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -3734,7 +3744,7 @@
       {
         "name":"be-hira",
         "unicode":"3079",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -3772,7 +3782,7 @@
       {
         "name":"pe-hira",
         "unicode":"307a",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -3958,7 +3968,7 @@
       {
         "name":"bo-hira",
         "unicode":"307c",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -4004,7 +4014,7 @@
       {
         "name":"po-hira",
         "unicode":"307d",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -4170,7 +4180,7 @@
       {
         "name":"mi-hira",
         "unicode":"307f",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -4196,7 +4206,7 @@
       {
         "name":"mu-hira",
         "unicode":"3080",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -4232,7 +4242,7 @@
       {
         "name":"me-hira",
         "unicode":"3081",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -4262,7 +4272,7 @@
       {
         "name":"mo-hira",
         "unicode":"3082",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -4390,7 +4400,7 @@
       {
         "name":"ya-hira",
         "unicode":"3084",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -4822,7 +4832,7 @@
       {
         "name":"ra-hira",
         "unicode":"3089",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -4856,7 +4866,7 @@
       {
         "name":"ri-hira",
         "unicode":"308a",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -4886,17 +4896,20 @@
       {
         "name":"ru-hira",
         "unicode":"308b",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 17:50:52",
         "layers":[
           {
             "name":"Regular",
             "autoRecipe":"ezhcurl",
-            "flags":16,
-            "advanceWidth":1285,
+            "flags":0,
+            "advanceWidth":1175,
             "elements":[
               {
                 "component":{
                   "glyphName":"ezhcurl"
+                },
+                "transform":{
+                  "xOffset":-70
                 }
               }
             ]
@@ -5030,7 +5043,7 @@
       {
         "name":"ro-hira",
         "unicode":"308d",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -5131,7 +5144,7 @@
       {
         "name":"wa-hira",
         "unicode":"308f",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -5404,7 +5417,7 @@
       {
         "name":"n-hira",
         "unicode":"3093",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -5473,7 +5486,7 @@
       {
         "name":"voicediteration-hira",
         "unicode":"309e",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -5678,7 +5691,7 @@
       {
         "name":"i-kata",
         "unicode":"30a4",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -5803,7 +5816,7 @@
       {
         "name":"u-kata",
         "unicode":"30a6",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -5847,7 +5860,7 @@
       {
         "name":"vu-kata",
         "unicode":"30f4",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -5962,7 +5975,7 @@
       {
         "name":"e-kata",
         "unicode":"30a8",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -6189,7 +6202,7 @@
       {
         "name":"ka-kata",
         "unicode":"30ab",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -6221,7 +6234,7 @@
       {
         "name":"ga-kata",
         "unicode":"30ac",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -6321,7 +6334,7 @@
       {
         "name":"gi-kata",
         "unicode":"30ae",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -6520,7 +6533,7 @@
       {
         "name":"gu-kata",
         "unicode":"30b0",
-        "lastModified":"2026-05-30 17:22:12",
+        "lastModified":"2026-05-30 18:03:46",
         "layers":[
           {
             "name":"Regular",
@@ -6718,7 +6731,7 @@
       {
         "name":"ge-kata",
         "unicode":"30b2",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -6762,7 +6775,7 @@
       {
         "name":"ko-kata",
         "unicode":"30b3",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -6798,7 +6811,7 @@
       {
         "name":"go-kata",
         "unicode":"30b4",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -6841,7 +6854,7 @@
       {
         "name":"sa-kata",
         "unicode":"30b5",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -6877,7 +6890,7 @@
       {
         "name":"za-kata",
         "unicode":"30b6",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -7110,7 +7123,7 @@
       {
         "name":"zi-kata",
         "unicode":"30b8",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -7306,7 +7319,7 @@
       {
         "name":"zu-kata",
         "unicode":"30ba",
-        "lastModified":"2026-05-30 17:22:12",
+        "lastModified":"2026-05-30 18:03:46",
         "layers":[
           {
             "name":"Regular",
@@ -7387,7 +7400,7 @@
       {
         "name":"ze-kata",
         "unicode":"30bc",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -7423,7 +7436,7 @@
       {
         "name":"so-kata",
         "unicode":"30bd",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -7432,8 +7445,10 @@
             "advanceWidth":1293,
             "elements":[
               {
-                "component":{
-                  "glyphName":"Ucyr"
+                "elementData":{
+                  "component":{
+                    "glyphName":"Ucyr"
+                  }
                 }
               }
             ],
@@ -7449,7 +7464,7 @@
       {
         "name":"zo-kata",
         "unicode":"30be",
-        "lastModified":"2026-05-30 17:23:04",
+        "lastModified":"2026-05-30 18:03:46",
         "layers":[
           {
             "name":"Regular",
@@ -7460,8 +7475,7 @@
               {
                 "component":{
                   "glyphName":"so-kata"
-                },
-                "active":true
+                }
               },
               {
                 "component":{
@@ -7588,7 +7602,7 @@
       {
         "name":"da-kata",
         "unicode":"30c0",
-        "lastModified":"2026-05-30 17:22:12",
+        "lastModified":"2026-05-30 18:03:46",
         "layers":[
           {
             "name":"Regular",
@@ -7628,7 +7642,7 @@
       {
         "name":"ti-kata",
         "unicode":"30c1",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -7637,8 +7651,10 @@
             "advanceWidth":1328,
             "elements":[
               {
-                "component":{
-                  "glyphName":"Tbar"
+                "elementData":{
+                  "component":{
+                    "glyphName":"Tbar"
+                  }
                 }
               }
             ],
@@ -7662,7 +7678,7 @@
       {
         "name":"di-kata",
         "unicode":"30c2",
-        "lastModified":"2026-05-30 17:23:04",
+        "lastModified":"2026-05-30 18:03:46",
         "layers":[
           {
             "name":"Regular",
@@ -7873,7 +7889,7 @@
       {
         "name":"du-kata",
         "unicode":"30c5",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -7913,7 +7929,7 @@
       {
         "name":"te-kata",
         "unicode":"30c6",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -7945,7 +7961,7 @@
       {
         "name":"de-kata",
         "unicode":"30c7",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -8117,7 +8133,7 @@
       {
         "name":"do-kata",
         "unicode":"30c9",
-        "lastModified":"2026-05-30 17:21:32",
+        "lastModified":"2026-05-30 18:03:46",
         "layers":[
           {
             "name":"Regular",
@@ -8176,8 +8192,7 @@
               {
                 "component":{
                   "glyphName":"Jstroke"
-                },
-                "active":true
+                }
               }
             ],
             "anchors":[
@@ -8407,7 +8422,7 @@
       {
         "name":"ne-kata",
         "unicode":"30cd",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -8443,7 +8458,7 @@
       {
         "name":"no-kata",
         "unicode":"30ce",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -8567,7 +8582,7 @@
       {
         "name":"ba-kata",
         "unicode":"30d0",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -8603,7 +8618,7 @@
       {
         "name":"pa-kata",
         "unicode":"30d1",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -8773,7 +8788,7 @@
       {
         "name":"bi-kata",
         "unicode":"30d3",
-        "lastModified":"2026-05-30 17:21:32",
+        "lastModified":"2026-05-30 18:03:46",
         "layers":[
           {
             "name":"Regular",
@@ -8944,7 +8959,7 @@
       {
         "name":"bu-kata",
         "unicode":"30d6",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -8980,7 +8995,7 @@
       {
         "name":"pu-kata",
         "unicode":"30d7",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -9073,7 +9088,7 @@
       {
         "name":"he-kata",
         "unicode":"30d8",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -9109,7 +9124,7 @@
       {
         "name":"be-kata",
         "unicode":"30d9",
-        "lastModified":"2026-05-30 17:21:32",
+        "lastModified":"2026-05-30 18:03:46",
         "layers":[
           {
             "name":"Regular",
@@ -9154,7 +9169,7 @@
       {
         "name":"pe-kata",
         "unicode":"30da",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -9364,7 +9379,7 @@
       {
         "name":"bo-kata",
         "unicode":"30dc",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -9400,7 +9415,7 @@
       {
         "name":"po-kata",
         "unicode":"30dd",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -9461,7 +9476,7 @@
       {
         "name":"mi-kata",
         "unicode":"30df",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -9543,7 +9558,7 @@
       {
         "name":"mu-kata",
         "unicode":"30e0",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -9563,7 +9578,7 @@
       {
         "name":"me-kata",
         "unicode":"30e1",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -9593,7 +9608,7 @@
       {
         "name":"mo-kata",
         "unicode":"30e2",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -9704,7 +9719,7 @@
       {
         "name":"ya-kata",
         "unicode":"30e4",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -9933,7 +9948,7 @@
       {
         "name":"yo-kata",
         "unicode":"30e8",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -10339,7 +10354,7 @@
       {
         "name":"ru-kata",
         "unicode":"30eb",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -10437,7 +10452,7 @@
       {
         "name":"re-kata",
         "unicode":"30ec",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -10467,7 +10482,7 @@
       {
         "name":"rosmall-kata",
         "unicode":"31ff",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -10501,7 +10516,7 @@
       {
         "name":"ro-kata",
         "unicode":"30ed",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -10641,7 +10656,7 @@
       {
         "name":"va-kata",
         "unicode":"30f7",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -10718,7 +10733,7 @@
       {
         "name":"vi-kata",
         "unicode":"30f8",
-        "lastModified":"2026-05-30 17:02:54",
+        "lastModified":"2026-05-30 18:03:46",
         "layers":[
           {
             "name":"Regular",
@@ -10845,7 +10860,7 @@
       {
         "name":"ve-kata",
         "unicode":"30f9",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -10920,7 +10935,7 @@
       {
         "name":"vo-kata",
         "unicode":"30fa",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -11100,7 +11115,7 @@
       {
         "name":"voicediteration-kata",
         "unicode":"30fe",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -11136,7 +11151,7 @@
       {
         "name":"voicedcomb-hira",
         "unicode":"3099",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "openTypeGlyphClass":3,
         "layers":[
           {
@@ -11159,10 +11174,6 @@
                 "point":"608 1123"
               },
               {
-                "name":"_t.uni030F_2",
-                "point":"608 1123"
-              },
-              {
                 "name":"t.uni030F_2",
                 "point":"608 1546"
               }
@@ -11173,7 +11184,7 @@
       {
         "name":"semivoicedcomb-hira",
         "unicode":"309a",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "openTypeGlyphClass":3,
         "layers":[
           {
@@ -11210,7 +11221,7 @@
       {
         "name":"voiced-hira",
         "unicode":"309b",
-        "lastModified":"2026-05-30 17:22:12",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -11312,7 +11323,7 @@
       {
         "name":"middledot-kata",
         "unicode":"30fb",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -11332,7 +11343,7 @@
       {
         "name":"prolongedkana-kata",
         "unicode":"30fc",
-        "lastModified":"2026-05-30 17:35:21",
+        "lastModified":"2026-05-30 18:04:39",
         "layers":[
           {
             "name":"Regular",
@@ -12052,7 +12063,7 @@
       {
         "name":"dieresiscomb",
         "unicode":"0308",
-        "lastModified":"2026-05-27 22:01:40",
+        "lastModified":"2026-05-30 18:04:37",
         "openTypeGlyphClass":3,
         "layers":[
           {
@@ -12106,10 +12117,6 @@
             "anchors":[
               {
                 "name":"_t.uni030F",
-                "point":"608 1123"
-              },
-              {
-                "name":"_t.uni030F_2",
                 "point":"608 1123"
               },
               {
@@ -17327,7 +17334,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "hints":[
@@ -21803,6 +21811,13 @@
       }
     ],
     "hinting":{
+      "blueFuzz":0,
+      "blueShift":16,
+      "blueScale":0.03129167,
+      "gasp":[
+        15,
+        65535
+      ]
     },
     "info":{
       "tfn":"Mìkam Kana",
@@ -21903,6 +21918,2428 @@
             "blueScale":0.03129167
           },
           "kerning":{
+            "kerningClasses":[
+              {
+                "name":"dieresis",
+                "2nd":true,
+                "names":[
+                  "dieresis",
+                  "voiced-hira"
+                ]
+              },
+              {
+                "name":"ring",
+                "2nd":true,
+                "names":[
+                  "ring",
+                  "semivoiced-hira"
+                ]
+              },
+              {
+                "name":"middledot-kata",
+                "2nd":true,
+                "names":[
+                  "middledot-kata",
+                  "periodcentered"
+                ]
+              },
+              {
+                "name":"Pecyr",
+                "2nd":true,
+                "names":[
+                  "Pecyr",
+                  "Shacyr",
+                  "Shhacyr"
+                ]
+              },
+              {
+                "name":"encyr",
+                "2nd":true,
+                "names":[
+                  "encyr",
+                  "gecyr",
+                  "pecyr"
+                ]
+              },
+              {
+                "name":"Gamma",
+                "2nd":true,
+                "names":[
+                  "Digammapamphylian",
+                  "Gamma"
+                ]
+              },
+              {
+                "name":"usmall-hira",
+                "2nd":true,
+                "names":[
+                  "kasmall-hira",
+                  "usmall-hira"
+                ]
+              },
+              {
+                "name":"kesmall-hira",
+                "2nd":true,
+                "names":[
+                  "kesmall-hira",
+                  "yasmall-hira"
+                ]
+              },
+              {
+                "name":"osmall-hira",
+                "2nd":true,
+                "names":[
+                  "osmall-hira",
+                  "wasmall-hira"
+                ]
+              },
+              {
+                "name":"n-hira",
+                "2nd":true,
+                "names":[
+                  "ga-hira",
+                  "ka-hira",
+                  "n-hira"
+                ]
+              },
+              {
+                "name":"so-hira",
+                "2nd":true,
+                "names":[
+                  "so-hira",
+                  "zo-hira"
+                ]
+              },
+              {
+                "name":"iteration-hira",
+                "2nd":true,
+                "names":[
+                  "iteration-hira",
+                  "voicediteration-hira"
+                ]
+              },
+              {
+                "name":"be-hira",
+                "2nd":true,
+                "names":[
+                  "be-hira",
+                  "he-hira",
+                  "pe-hira"
+                ]
+              },
+              {
+                "name":"u-hira",
+                "2nd":true,
+                "names":[
+                  "u-hira",
+                  "vu-hira"
+                ]
+              },
+              {
+                "name":"bi-hira",
+                "2nd":true,
+                "names":[
+                  "bi-hira",
+                  "hi-hira",
+                  "pi-hira"
+                ]
+              },
+              {
+                "name":"gi-hira",
+                "2nd":true,
+                "names":[
+                  "gi-hira",
+                  "ki-hira",
+                  "mo-hira"
+                ]
+              },
+              {
+                "name":"sa-hira",
+                "2nd":true,
+                "names":[
+                  "sa-hira",
+                  "za-hira"
+                ]
+              },
+              {
+                "name":"go-hira",
+                "2nd":true,
+                "names":[
+                  "go-hira",
+                  "ko-hira"
+                ]
+              },
+              {
+                "name":"di-hira",
+                "2nd":true,
+                "names":[
+                  "di-hira",
+                  "ti-hira"
+                ]
+              },
+              {
+                "name":"du-hira",
+                "2nd":true,
+                "names":[
+                  "du-hira",
+                  "tu-hira"
+                ]
+              },
+              {
+                "name":"de-hira",
+                "2nd":true,
+                "names":[
+                  "de-hira",
+                  "te-hira"
+                ]
+              },
+              {
+                "name":"gu-hira",
+                "2nd":true,
+                "names":[
+                  "gu-hira",
+                  "ku-hira"
+                ]
+              },
+              {
+                "name":"do-hira",
+                "2nd":true,
+                "names":[
+                  "do-hira",
+                  "to-hira"
+                ]
+              },
+              {
+                "name":"da-hira",
+                "2nd":true,
+                "names":[
+                  "da-hira",
+                  "ta-hira",
+                  "wo-hira"
+                ]
+              },
+              {
+                "name":"si-hira",
+                "2nd":true,
+                "names":[
+                  "si-hira",
+                  "zi-hira"
+                ]
+              },
+              {
+                "name":"se-hira",
+                "2nd":true,
+                "names":[
+                  "se-hira",
+                  "ze-hira"
+                ]
+              },
+              {
+                "name":"bo-hira",
+                "2nd":true,
+                "names":[
+                  "bo-hira",
+                  "ho-hira",
+                  "po-hira"
+                ]
+              },
+              {
+                "name":"ba-hira",
+                "2nd":true,
+                "names":[
+                  "ba-hira",
+                  "ha-hira",
+                  "pa-hira"
+                ]
+              },
+              {
+                "name":"ge-hira",
+                "2nd":true,
+                "names":[
+                  "ge-hira",
+                  "ke-hira"
+                ]
+              },
+              {
+                "name":"su-hira",
+                "2nd":true,
+                "names":[
+                  "su-hira",
+                  "zu-hira"
+                ]
+              },
+              {
+                "name":"bu-hira",
+                "2nd":true,
+                "names":[
+                  "bu-hira",
+                  "hu-hira",
+                  "me-hira",
+                  "pu-hira"
+                ]
+              },
+              {
+                "name":"asmall-kata",
+                "2nd":true,
+                "names":[
+                  "asmall-kata",
+                  "hismall-kata",
+                  "husmall-kata",
+                  "ismall-kata",
+                  "resmall-kata",
+                  "rusmall-kata",
+                  "tosmall-kata",
+                  "usmall-kata",
+                  "wasmall-kata",
+                  "yasmall-kata"
+                ]
+              },
+              {
+                "name":"esmall-kata",
+                "2nd":true,
+                "names":[
+                  "esmall-kata",
+                  "kesmall-kata"
+                ]
+              },
+              {
+                "name":"bi-kata",
+                "2nd":true,
+                "names":[
+                  "bi-kata",
+                  "do-kata",
+                  "hi-kata",
+                  "mo-kata",
+                  "pi-kata",
+                  "re-kata",
+                  "se-kata",
+                  "to-kata",
+                  "ya-kata",
+                  "ze-kata"
+                ]
+              },
+              {
+                "name":"u-kata",
+                "2nd":true,
+                "names":[
+                  "u-kata",
+                  "va-kata",
+                  "vu-kata",
+                  "wa-kata"
+                ]
+              },
+              {
+                "name":"bo-kata",
+                "2nd":true,
+                "names":[
+                  "bo-kata",
+                  "ho-kata",
+                  "po-kata"
+                ]
+              },
+              {
+                "name":"ga-kata",
+                "2nd":true,
+                "names":[
+                  "ga-kata",
+                  "ka-kata"
+                ]
+              },
+              {
+                "name":"be-kata",
+                "2nd":true,
+                "names":[
+                  "be-kata",
+                  "he-kata",
+                  "pe-kata"
+                ]
+              },
+              {
+                "name":"su-kata",
+                "2nd":true,
+                "names":[
+                  "su-kata",
+                  "zu-kata"
+                ]
+              },
+              {
+                "name":"ba-kata",
+                "2nd":true,
+                "names":[
+                  "ba-kata",
+                  "ha-kata",
+                  "pa-kata"
+                ]
+              },
+              {
+                "name":"iteration-kata",
+                "2nd":true,
+                "names":[
+                  "iteration-kata",
+                  "voicediteration-kata"
+                ]
+              },
+              {
+                "name":"ve-kata",
+                "2nd":true,
+                "names":[
+                  "ve-kata",
+                  "we-kata"
+                ]
+              },
+              {
+                "name":"so-kata",
+                "2nd":true,
+                "names":[
+                  "so-kata",
+                  "zo-kata"
+                ]
+              },
+              {
+                "name":"gi-kata",
+                "2nd":true,
+                "names":[
+                  "gi-kata",
+                  "ki-kata"
+                ]
+              },
+              {
+                "name":"di-kata",
+                "2nd":true,
+                "names":[
+                  "di-kata",
+                  "ti-kata"
+                ]
+              },
+              {
+                "name":"de-kata",
+                "2nd":true,
+                "names":[
+                  "de-kata",
+                  "te-kata"
+                ]
+              },
+              {
+                "name":"vo-kata",
+                "2nd":true,
+                "names":[
+                  "vo-kata",
+                  "wo-kata"
+                ]
+              },
+              {
+                "name":"bu-kata",
+                "2nd":true,
+                "names":[
+                  "bu-kata",
+                  "hu-kata",
+                  "pu-kata"
+                ]
+              },
+              {
+                "name":"vi-kata",
+                "2nd":true,
+                "names":[
+                  "vi-kata",
+                  "wi-kata"
+                ]
+              },
+              {
+                "name":"si-kata",
+                "2nd":true,
+                "names":[
+                  "si-kata",
+                  "zi-kata"
+                ]
+              },
+              {
+                "name":"go-kata",
+                "2nd":true,
+                "names":[
+                  "go-kata",
+                  "ko-kata"
+                ]
+              },
+              {
+                "name":"ge-kata",
+                "2nd":true,
+                "names":[
+                  "ge-kata",
+                  "ke-kata"
+                ]
+              },
+              {
+                "name":"da-kata",
+                "2nd":true,
+                "names":[
+                  "da-kata",
+                  "ta-kata"
+                ]
+              },
+              {
+                "name":"sa-kata",
+                "2nd":true,
+                "names":[
+                  "sa-kata",
+                  "za-kata"
+                ]
+              },
+              {
+                "name":"gu-kata",
+                "2nd":true,
+                "names":[
+                  "gu-kata",
+                  "ku-kata"
+                ]
+              },
+              {
+                "name":"du-kata",
+                "2nd":true,
+                "names":[
+                  "du-kata",
+                  "tu-kata"
+                ]
+              },
+              {
+                "name":"E",
+                "2nd":true,
+                "names":[
+                  "Btopbar",
+                  "E",
+                  "F",
+                  "I",
+                  "L",
+                  "N",
+                  "P",
+                  "Thorn"
+                ]
+              },
+              {
+                "name":"U",
+                "2nd":true,
+                "names":[
+                  "U",
+                  "U.1"
+                ]
+              },
+              {
+                "name":"c.sups",
+                "2nd":true,
+                "names":[
+                  "c.sups",
+                  "o.sups"
+                ]
+              },
+              {
+                "name":"m",
+                "2nd":true,
+                "names":[
+                  "dotlessi",
+                  "llwelsh",
+                  "m",
+                  "n"
+                ]
+              },
+              {
+                "name":"vturn",
+                "2nd":true,
+                "names":[
+                  "vturn",
+                  "yturn"
+                ]
+              },
+              {
+                "name":"j",
+                "2nd":true,
+                "names":[
+                  "dotlessj",
+                  "j"
+                ]
+              },
+              {
+                "name":"h",
+                "2nd":true,
+                "names":[
+                  "h",
+                  "l"
+                ]
+              },
+              {
+                "name":"dieresis1",
+                "1st":true,
+                "names":[
+                  "dieresis",
+                  "voiced-hira"
+                ]
+              },
+              {
+                "name":"ring1",
+                "1st":true,
+                "names":[
+                  "ring",
+                  "semivoiced-hira"
+                ]
+              },
+              {
+                "name":"middledot-kata1",
+                "1st":true,
+                "names":[
+                  "middledot-kata",
+                  "periodcentered"
+                ]
+              },
+              {
+                "name":"Elcyr",
+                "1st":true,
+                "names":[
+                  "Elcyr",
+                  "Enhookcyr",
+                  "Pecyr",
+                  "Shacyr"
+                ]
+              },
+              {
+                "name":"encyr1",
+                "1st":true,
+                "names":[
+                  "encyr",
+                  "pecyr"
+                ]
+              },
+              {
+                "name":"usmall-hira1",
+                "1st":true,
+                "names":[
+                  "kasmall-hira",
+                  "usmall-hira"
+                ]
+              },
+              {
+                "name":"osmall-hira1",
+                "1st":true,
+                "names":[
+                  "osmall-hira",
+                  "wasmall-hira"
+                ]
+              },
+              {
+                "name":"u-hira1",
+                "1st":true,
+                "names":[
+                  "u-hira",
+                  "vu-hira"
+                ]
+              },
+              {
+                "name":"n-hira1",
+                "1st":true,
+                "names":[
+                  "ga-hira",
+                  "ka-hira",
+                  "n-hira"
+                ]
+              },
+              {
+                "name":"so-hira1",
+                "1st":true,
+                "names":[
+                  "so-hira",
+                  "zo-hira"
+                ]
+              },
+              {
+                "name":"be-hira1",
+                "1st":true,
+                "names":[
+                  "be-hira",
+                  "he-hira",
+                  "pe-hira"
+                ]
+              },
+              {
+                "name":"gi-hira1",
+                "1st":true,
+                "names":[
+                  "gi-hira",
+                  "ki-hira",
+                  "mo-hira"
+                ]
+              },
+              {
+                "name":"sa-hira1",
+                "1st":true,
+                "names":[
+                  "sa-hira",
+                  "za-hira"
+                ]
+              },
+              {
+                "name":"iteration-hira1",
+                "1st":true,
+                "names":[
+                  "iteration-hira",
+                  "voicediteration-hira"
+                ]
+              },
+              {
+                "name":"bi-hira1",
+                "1st":true,
+                "names":[
+                  "bi-hira",
+                  "hi-hira",
+                  "pi-hira"
+                ]
+              },
+              {
+                "name":"di-hira1",
+                "1st":true,
+                "names":[
+                  "di-hira",
+                  "ti-hira"
+                ]
+              },
+              {
+                "name":"go-hira1",
+                "1st":true,
+                "names":[
+                  "go-hira",
+                  "ko-hira"
+                ]
+              },
+              {
+                "name":"da-hira1",
+                "1st":true,
+                "names":[
+                  "da-hira",
+                  "ta-hira"
+                ]
+              },
+              {
+                "name":"de-hira1",
+                "1st":true,
+                "names":[
+                  "de-hira",
+                  "te-hira"
+                ]
+              },
+              {
+                "name":"gu-hira1",
+                "1st":true,
+                "names":[
+                  "gu-hira",
+                  "ku-hira"
+                ]
+              },
+              {
+                "name":"do-hira1",
+                "1st":true,
+                "names":[
+                  "do-hira",
+                  "to-hira"
+                ]
+              },
+              {
+                "name":"du-hira1",
+                "1st":true,
+                "names":[
+                  "du-hira",
+                  "tu-hira"
+                ]
+              },
+              {
+                "name":"nu-hira",
+                "1st":true,
+                "names":[
+                  "nu-hira",
+                  "wi-hira"
+                ]
+              },
+              {
+                "name":"si-hira1",
+                "1st":true,
+                "names":[
+                  "si-hira",
+                  "zi-hira"
+                ]
+              },
+              {
+                "name":"bu-hira1",
+                "1st":true,
+                "names":[
+                  "bu-hira",
+                  "hu-hira",
+                  "me-hira",
+                  "pu-hira"
+                ]
+              },
+              {
+                "name":"ge-hira1",
+                "1st":true,
+                "names":[
+                  "ge-hira",
+                  "ke-hira"
+                ]
+              },
+              {
+                "name":"su-hira1",
+                "1st":true,
+                "names":[
+                  "su-hira",
+                  "zu-hira"
+                ]
+              },
+              {
+                "name":"bo-hira1",
+                "1st":true,
+                "names":[
+                  "bo-hira",
+                  "ho-hira",
+                  "po-hira"
+                ]
+              },
+              {
+                "name":"ba-hira1",
+                "1st":true,
+                "names":[
+                  "ba-hira",
+                  "ha-hira",
+                  "pa-hira"
+                ]
+              },
+              {
+                "name":"se-hira1",
+                "1st":true,
+                "names":[
+                  "se-hira",
+                  "ze-hira"
+                ]
+              },
+              {
+                "name":"ismall-kata",
+                "1st":true,
+                "names":[
+                  "husmall-kata",
+                  "ismall-kata",
+                  "kasmall-kata",
+                  "osmall-kata",
+                  "rasmall-kata",
+                  "usmall-kata",
+                  "wasmall-kata",
+                  "yosmall-kata"
+                ]
+              },
+              {
+                "name":"resmall-kata",
+                "1st":true,
+                "names":[
+                  "resmall-kata",
+                  "rusmall-kata"
+                ]
+              },
+              {
+                "name":"o-kata",
+                "1st":true,
+                "names":[
+                  "bu-kata",
+                  "ga-kata",
+                  "hu-kata",
+                  "ka-kata",
+                  "o-kata",
+                  "pu-kata",
+                  "vi-kata",
+                  "vo-kata",
+                  "wi-kata",
+                  "wo-kata",
+                  "yo-kata"
+                ]
+              },
+              {
+                "name":"u-kata1",
+                "1st":true,
+                "names":[
+                  "u-kata",
+                  "va-kata",
+                  "vu-kata",
+                  "wa-kata"
+                ]
+              },
+              {
+                "name":"bo-kata1",
+                "1st":true,
+                "names":[
+                  "bo-kata",
+                  "ho-kata",
+                  "po-kata"
+                ]
+              },
+              {
+                "name":"bi-kata1",
+                "1st":true,
+                "names":[
+                  "bi-kata",
+                  "hi-kata",
+                  "pi-kata"
+                ]
+              },
+              {
+                "name":"be-kata1",
+                "1st":true,
+                "names":[
+                  "be-kata",
+                  "he-kata",
+                  "pe-kata"
+                ]
+              },
+              {
+                "name":"su-kata1",
+                "1st":true,
+                "names":[
+                  "su-kata",
+                  "zu-kata"
+                ]
+              },
+              {
+                "name":"ba-kata1",
+                "1st":true,
+                "names":[
+                  "ba-kata",
+                  "ha-kata",
+                  "pa-kata"
+                ]
+              },
+              {
+                "name":"ve-kata1",
+                "1st":true,
+                "names":[
+                  "ve-kata",
+                  "we-kata"
+                ]
+              },
+              {
+                "name":"se-kata",
+                "1st":true,
+                "names":[
+                  "se-kata",
+                  "ze-kata"
+                ]
+              },
+              {
+                "name":"iteration-kata1",
+                "1st":true,
+                "names":[
+                  "iteration-kata",
+                  "voicediteration-kata"
+                ]
+              },
+              {
+                "name":"gi-kata1",
+                "1st":true,
+                "names":[
+                  "gi-kata",
+                  "ki-kata"
+                ]
+              },
+              {
+                "name":"di-kata1",
+                "1st":true,
+                "names":[
+                  "di-kata",
+                  "ti-kata"
+                ]
+              },
+              {
+                "name":"de-kata1",
+                "1st":true,
+                "names":[
+                  "de-kata",
+                  "te-kata"
+                ]
+              },
+              {
+                "name":"do-kata",
+                "1st":true,
+                "names":[
+                  "do-kata",
+                  "to-kata"
+                ]
+              },
+              {
+                "name":"so-kata1",
+                "1st":true,
+                "names":[
+                  "so-kata",
+                  "zo-kata"
+                ]
+              },
+              {
+                "name":"no-kata",
+                "1st":true,
+                "names":[
+                  "no-kata",
+                  "ri-kata"
+                ]
+              },
+              {
+                "name":"n-kata",
+                "1st":true,
+                "names":[
+                  "n-kata",
+                  "si-kata",
+                  "zi-kata"
+                ]
+              },
+              {
+                "name":"go-kata1",
+                "1st":true,
+                "names":[
+                  "go-kata",
+                  "ko-kata"
+                ]
+              },
+              {
+                "name":"da-kata1",
+                "1st":true,
+                "names":[
+                  "da-kata",
+                  "gu-kata",
+                  "ku-kata",
+                  "sa-kata",
+                  "ta-kata",
+                  "za-kata"
+                ]
+              },
+              {
+                "name":"ge-kata1",
+                "1st":true,
+                "names":[
+                  "ge-kata",
+                  "ke-kata"
+                ]
+              },
+              {
+                "name":"du-kata1",
+                "1st":true,
+                "names":[
+                  "du-kata",
+                  "tu-kata"
+                ]
+              },
+              {
+                "name":"I",
+                "1st":true,
+                "names":[
+                  "Eng",
+                  "Eturn",
+                  "Fturn",
+                  "I",
+                  "N"
+                ]
+              },
+              {
+                "name":"T",
+                "1st":true,
+                "names":[
+                  "T",
+                  "Thook"
+                ]
+              },
+              {
+                "name":"P",
+                "1st":true,
+                "names":[
+                  "P",
+                  "Phook"
+                ]
+              },
+              {
+                "name":"U1",
+                "1st":true,
+                "names":[
+                  "U",
+                  "U.1"
+                ]
+              },
+              {
+                "name":"c.sups1",
+                "1st":true,
+                "names":[
+                  "c.sups",
+                  "o.sups"
+                ]
+              },
+              {
+                "name":"llwelsh",
+                "1st":true,
+                "names":[
+                  "dotlessi",
+                  "llwelsh"
+                ]
+              },
+              {
+                "name":"vturn1",
+                "1st":true,
+                "names":[
+                  "vturn",
+                  "yturn"
+                ]
+              },
+              {
+                "name":"oopen",
+                "1st":true,
+                "names":[
+                  "ascriptturn",
+                  "oopen"
+                ]
+              },
+              {
+                "name":"uni01A3",
+                "1st":true,
+                "names":[
+                  "hfishhookturned",
+                  "uni01A3"
+                ]
+              },
+              {
+                "name":"j1",
+                "1st":true,
+                "names":[
+                  "dotlessj",
+                  "j"
+                ]
+              },
+              {
+                "name":"d",
+                "1st":true,
+                "names":[
+                  "d",
+                  "dtopbar"
+                ]
+              }
+            ],
+            "pairs":{
+              "@ba-hira1":{
+                "@so-kata":"-69"
+              },
+              "@ba-kata1":{
+                "@asmall-kata":"-169",
+                "@bu-kata":"-219",
+                "@de-kata":"-159",
+                "@di-kata":"-169",
+                "@du-kata":"-159",
+                "@esmall-kata":"-89",
+                "@ge-kata":"-179",
+                "@gi-kata":"-40",
+                "@go-kata":"-39",
+                "@kesmall-hira":"-89",
+                "@osmall-hira":"-149",
+                "@so-kata":"-80",
+                "@usmall-hira":"-208",
+                "@vi-kata":"-89",
+                "asmall-hira":"-149",
+                "esmall-hira":"-89",
+                "hasmall-kata":"-99",
+                "hesmall-kata":"-99",
+                "hosmall-kata":"-89",
+                "i-kata":"-199",
+                "ismall-hira":"-119",
+                "kasmall-kata":"-89",
+                "kusmall-kata":"-99",
+                "ma-kata":"-212",
+                "musmall-kata":"-99",
+                "n-kata":"-39",
+                "nusmall-kata":"-99",
+                "osmall-kata":"-99",
+                "prolongedkana-kata":"-26",
+                "ra-kata":"-169",
+                "rasmall-kata":"-179",
+                "rismall-kata":"-129",
+                "ro-kata":"-59",
+                "rosmall-kata":"-149",
+                "sismall-kata":"-129",
+                "susmall-kata":"-99",
+                "tusmall-hira":"-139",
+                "tusmall-kata":"-208",
+                "yosmall-hira":"-129",
+                "yosmall-kata":"-99",
+                "yusmall-hira":"-89",
+                "yusmall-kata":"-89"
+              },
+              "@be-hira1":{
+                "@gi-kata":"-50",
+                "@go-kata":"-39",
+                "@so-kata":"-80"
+              },
+              "@be-kata1":{
+                "@asmall-kata":"-159",
+                "@bu-kata":"-199",
+                "@de-kata":"-149",
+                "@di-kata":"-169",
+                "@du-kata":"-159",
+                "@esmall-kata":"-80",
+                "@ge-kata":"-159",
+                "@gi-kata":"-40",
+                "@go-kata":"-39",
+                "@kesmall-hira":"-80",
+                "@osmall-hira":"-139",
+                "@so-kata":"-80",
+                "@usmall-hira":"-198",
+                "@vi-kata":"-79",
+                "asmall-hira":"-129",
+                "esmall-hira":"-80",
+                "hasmall-kata":"-89",
+                "hesmall-kata":"-89",
+                "hosmall-kata":"-80",
+                "i-kata":"-199",
+                "ismall-hira":"-109",
+                "kasmall-kata":"-80",
+                "kusmall-kata":"-89",
+                "ma-kata":"-212",
+                "musmall-kata":"-89",
+                "n-kata":"-39",
+                "nusmall-kata":"-89",
+                "osmall-kata":"-89",
+                "prolongedkana-kata":"-26",
+                "ra-kata":"-159",
+                "rasmall-kata":"-159",
+                "rismall-kata":"-119",
+                "ro-kata":"-59",
+                "rosmall-kata":"-139",
+                "sismall-kata":"-119",
+                "susmall-kata":"-89",
+                "tusmall-hira":"-119",
+                "tusmall-kata":"-198",
+                "yosmall-hira":"-119",
+                "yosmall-kata":"-89",
+                "yusmall-hira":"-80",
+                "yusmall-kata":"-80"
+              },
+              "@bi-hira1":{
+                "@so-kata":"-60"
+              },
+              "@bi-kata1":{
+                "@gi-kata":"-199",
+                "@go-kata":"-40",
+                "@so-kata":"-80"
+              },
+              "@bo-hira1":{
+                "@so-kata":"-69"
+              },
+              "@bo-kata1":{
+                "@so-kata":"-79"
+              },
+              "@bu-hira1":{
+                "@so-kata":"-80"
+              },
+              "@da-hira1":{
+                "@so-kata":"-89"
+              },
+              "@de-hira1":{
+                "@so-kata":"-60"
+              },
+              "@de-kata1":{
+                "@ba-kata":"-80",
+                "@be-kata":"-159",
+                "@da-kata":"-189",
+                "@ga-kata":"-119",
+                "@gu-kata":"-198",
+                "mu-kata":"-159",
+                "na-kata":"-189",
+                "ne-kata":"-159",
+                "no-kata":"-189",
+                "prolongedkana-kata":"-80"
+              },
+              "@di-hira1":{
+                "@asmall-kata":"-129",
+                "@bu-kata":"-149",
+                "@de-kata":"-50",
+                "@di-kata":"-149",
+                "@du-kata":"-109",
+                "@esmall-kata":"-119",
+                "@ge-kata":"-149",
+                "@kesmall-hira":"-50",
+                "@osmall-hira":"-109",
+                "@so-kata":"-89",
+                "@usmall-hira":"-169",
+                "@vi-kata":"-39",
+                "asmall-hira":"-59",
+                "esmall-hira":"-109",
+                "hasmall-kata":"-109",
+                "hesmall-kata":"-99",
+                "hosmall-kata":"-59",
+                "i-kata":"-149",
+                "ismall-hira":"-50",
+                "kasmall-kata":"-119",
+                "kusmall-kata":"-129",
+                "ma-kata":"-129",
+                "musmall-kata":"-99",
+                "nusmall-kata":"-129",
+                "osmall-kata":"-129",
+                "prolongedkana-kata":"-51",
+                "ra-kata":"-59",
+                "rasmall-kata":"-59",
+                "rismall-kata":"-50",
+                "rosmall-kata":"-50",
+                "sismall-kata":"-59",
+                "susmall-kata":"-99",
+                "tusmall-hira":"-99",
+                "tusmall-kata":"-109",
+                "yosmall-hira":"-59",
+                "yosmall-kata":"-69",
+                "yusmall-hira":"-50",
+                "yusmall-kata":"-119"
+              },
+              "@di-kata1":{
+                "@ba-kata":"-80",
+                "@be-kata":"-159",
+                "@da-kata":"-189",
+                "@ga-kata":"-129",
+                "@gi-kata":"-189",
+                "@go-kata":"-40",
+                "@gu-kata":"-198",
+                "@vi-kata":"-40",
+                "mu-kata":"-169",
+                "na-kata":"-189",
+                "ne-kata":"-159",
+                "no-kata":"-189",
+                "ro-kata":"-50"
+              },
+              "@do-hira1":{
+                "@so-kata":"-99"
+              },
+              "@do-kata":{
+                "@asmall-kata":"-50",
+                "@ba-kata":"-119",
+                "@be-kata":"-89",
+                "@bu-kata":"-288",
+                "@da-kata":"-119",
+                "@de-kata":"-199",
+                "@di-kata":"-50",
+                "@du-kata":"-60",
+                "@ga-kata":"-99",
+                "@ge-kata":"-219",
+                "@gi-kata":"-199",
+                "@go-kata":"-298",
+                "@gu-kata":"-179",
+                "@osmall-hira":"-30",
+                "@so-kata":"-119",
+                "@usmall-hira":"-89",
+                "i-kata":"-199",
+                "ma-kata":"-89",
+                "mu-kata":"-89",
+                "n-kata":"-288",
+                "na-kata":"-209",
+                "ne-kata":"-89",
+                "no-kata":"-288",
+                "ra-kata":"-288",
+                "rasmall-kata":"-169",
+                "tusmall-kata":"-69"
+              },
+              "@du-hira1":{
+                "@so-kata":"-129"
+              },
+              "@du-kata1":{
+                "@ba-kata":"-80",
+                "@be-kata":"-159",
+                "@da-kata":"-129",
+                "@ga-kata":"-129",
+                "@gu-kata":"-159",
+                "@vi-kata":"-50",
+                "mu-kata":"-159",
+                "na-kata":"-89",
+                "ne-kata":"-159",
+                "no-kata":"-89",
+                "ro-kata":"-39"
+              },
+              "@ge-hira1":{
+                "@so-kata":"-60",
+                "na-kata":"-40",
+                "no-kata":"-40"
+              },
+              "@ge-kata1":{
+                "@ba-kata":"-80",
+                "@be-kata":"-198",
+                "@da-kata":"-189",
+                "@ga-kata":"-129",
+                "@gi-kata":"-189",
+                "@go-kata":"-40",
+                "@gu-kata":"-198",
+                "@vi-kata":"-189",
+                "mu-kata":"-198",
+                "na-kata":"-189",
+                "ne-kata":"-198",
+                "no-kata":"-189",
+                "prolongedkana-kata":"-80",
+                "ro-kata":"-69"
+              },
+              "@gi-hira1":{
+                "@so-kata":"-69"
+              },
+              "@gi-kata1":{
+                "@asmall-kata":"-50",
+                "@ba-kata":"-69",
+                "@be-hira":"-60",
+                "@be-kata":"-50",
+                "@bu-kata":"-189",
+                "@da-kata":"-50",
+                "@di-hira":"-30",
+                "@di-kata":"-189",
+                "@esmall-kata":"-50",
+                "@ga-kata":"-89",
+                "@gu-kata":"-110",
+                "@iteration-hira":"-69",
+                "@iteration-kata":"-80",
+                "@osmall-hira":"-40",
+                "@so-kata":"-50",
+                "@su-kata":"-60",
+                "@usmall-hira":"-89",
+                "@vo-kata":"-189",
+                "e-kata":"-99",
+                "esmall-hira":"-50",
+                "hasmall-kata":"-50",
+                "hesmall-kata":"-30",
+                "i-kata":"-189",
+                "kasmall-kata":"-40",
+                "kusmall-kata":"-69",
+                "ma-hira":"-60",
+                "ma-kata":"-30",
+                "me-kata":"-99",
+                "mu-kata":"-50",
+                "musmall-kata":"-30",
+                "ne-kata":"-50",
+                "ni-kata":"-189",
+                "nu-kata":"-99",
+                "nusmall-kata":"-89",
+                "o-kata":"-99",
+                "osmall-kata":"-60",
+                "prolongedkana-kata":"-80",
+                "susmall-kata":"-40",
+                "tusmall-hira":"-198",
+                "yu-kata":"-189",
+                "yusmall-kata":"-99"
+              },
+              "@go-hira1":{
+                "@so-kata":"-89"
+              },
+              "@go-kata1":{
+                "@asmall-kata":"-38",
+                "@ba-kata":"-79",
+                "@be-kata":"-69",
+                "@bu-kata":"-60",
+                "@da-kata":"-49",
+                "@di-kata":"-50",
+                "@du-kata":"-49",
+                "@ga-kata":"-60",
+                "@gu-kata":"-109",
+                "@osmall-hira":"-30",
+                "@so-kata":"-80",
+                "@usmall-hira":"-69",
+                "i-kata":"-60",
+                "ma-kata":"-69",
+                "mu-kata":"-69",
+                "ne-kata":"-69",
+                "tusmall-kata":"-50"
+              },
+              "@gu-hira1":{
+                "@so-kata":"-99"
+              },
+              "@ismall-kata":{
+                "@ba-kata":"-80",
+                "@be-kata":"-208",
+                "@da-kata":"-238",
+                "@ga-kata":"-129",
+                "@gi-kata":"-89",
+                "@go-kata":"-50",
+                "@gu-kata":"-298",
+                "@vi-kata":"-89",
+                "mu-kata":"-208",
+                "na-kata":"-318",
+                "ne-kata":"-208",
+                "no-kata":"-318",
+                "prolongedkana-kata":"-26",
+                "ro-kata":"-80"
+              },
+              "@iteration-hira1":{
+                "@so-kata":"-60"
+              },
+              "@iteration-kata1":{
+                "@asmall-kata":"-50",
+                "@ba-kata":"-129",
+                "@be-kata":"-89",
+                "@bu-kata":"-119",
+                "@da-kata":"-119",
+                "@de-kata":"-30",
+                "@di-kata":"-50",
+                "@du-kata":"-59",
+                "@ga-kata":"-109",
+                "@ge-kata":"-50",
+                "@go-kata":"-29",
+                "@gu-kata":"-179",
+                "@osmall-hira":"-30",
+                "@so-kata":"-110",
+                "@usmall-hira":"-89",
+                "i-kata":"-119",
+                "ma-kata":"-89",
+                "mu-kata":"-99",
+                "na-kata":"-30",
+                "ne-kata":"-89",
+                "no-kata":"-30",
+                "ra-kata":"-39",
+                "rasmall-kata":"-50",
+                "tusmall-kata":"-69"
+              },
+              "@n-hira1":{
+                "@asmall-kata":"-50",
+                "@bu-kata":"-308",
+                "@di-kata":"-50",
+                "@du-kata":"-50",
+                "@ge-kata":"-69",
+                "@osmall-hira":"-30",
+                "@so-kata":"-80",
+                "@usmall-hira":"-80",
+                "i-kata":"-199",
+                "ma-kata":"-79",
+                "rasmall-kata":"-39",
+                "tusmall-kata":"-59"
+              },
+              "@nu-hira":{
+                "@so-kata":"-189"
+              },
+              "@osmall-hira1":{
+                "@ba-kata":"-69",
+                "@be-kata":"-50",
+                "@da-kata":"-50",
+                "@ga-kata":"-89",
+                "@gu-kata":"-109",
+                "mu-kata":"-50",
+                "ne-kata":"-50"
+              },
+              "@resmall-kata":{
+                "@ba-kata":"-119",
+                "@be-kata":"-89",
+                "@da-kata":"-119",
+                "@ga-kata":"-99",
+                "@gi-kata":"-139",
+                "@go-kata":"-149",
+                "@gu-kata":"-179",
+                "@so-kata":"-129",
+                "mu-kata":"-89",
+                "na-kata":"-318",
+                "ne-kata":"-89",
+                "no-kata":"-318"
+              },
+              "@sa-hira1":{
+                "@so-kata":"-69"
+              },
+              "@se-hira1":{
+                "@so-kata":"-60"
+              },
+              "@se-kata":{
+                "@ba-kata":"-40",
+                "@be-kata":"-50",
+                "@da-kata":"-40",
+                "@ga-kata":"-40",
+                "@gu-kata":"-50",
+                "@so-kata":"-39",
+                "hasmall-kata":"-29",
+                "kusmall-kata":"-39",
+                "ma-kata":"-29",
+                "mu-kata":"-50",
+                "na-kata":"-69",
+                "ne-kata":"-50",
+                "no-kata":"-69"
+              },
+              "@si-hira1":{
+                "@gi-kata":"-69",
+                "@go-kata":"-79",
+                "@so-kata":"-159",
+                "na-kata":"-69",
+                "no-kata":"-69"
+              },
+              "@so-hira1":{
+                "@so-kata":"-69"
+              },
+              "@so-kata1":{
+                "@ba-hira":"-30",
+                "@ba-kata":"-80",
+                "@be-hira":"-212",
+                "@be-kata":"-212",
+                "@bi-hira":"-30",
+                "@bo-hira":"-30",
+                "@bo-kata":"-89",
+                "@bu-hira":"-109",
+                "@da-kata":"-218",
+                "@de-hira":"-30",
+                "@di-hira":"-99",
+                "@du-hira":"-89",
+                "@ga-kata":"-129",
+                "@ge-hira":"-30",
+                "@gi-hira":"-30",
+                "@go-hira":"-89",
+                "@go-kata":"-39",
+                "@gu-hira":"-109",
+                "@gu-kata":"-269",
+                "@iteration-hira":"-129",
+                "@sa-hira":"-30",
+                "@se-hira":"-30",
+                "@si-hira":"-30",
+                "@so-hira":"-39",
+                "@su-hira":"-109",
+                "@u-hira":"-30",
+                "@u-kata":"-30",
+                "@vi-kata":"-89",
+                "a-hira":"-109",
+                "e-hira":"-39",
+                "hasmall-kata":"-30",
+                "hesmall-kata":"-96",
+                "i-hira":"-30",
+                "kasmall-kata":"-60",
+                "kusmall-kata":"-119",
+                "ma-hira":"-119",
+                "mi-hira":"-99",
+                "mu-hira":"-109",
+                "mu-kata":"-212",
+                "musmall-kata":"-96",
+                "na-kata":"-149",
+                "ne-kata":"-212",
+                "ni-hira":"-30",
+                "no-hira":"-109",
+                "no-kata":"-149",
+                "nu-hira":"-109",
+                "prolongedkana-kata":"-38",
+                "ra-hira":"-99",
+                "ri-hira":"-30",
+                "ro-hira":"-69",
+                "ro-kata":"-59",
+                "ru-hira":"-59",
+                "we-hira":"-30",
+                "yosmall-hira":"-69",
+                "yu-hira":"-30"
+              },
+              "@su-hira1":{
+                "@gi-kata":"-40",
+                "na-kata":"-40",
+                "no-kata":"-40"
+              },
+              "@su-kata1":{
+                "@gi-kata":"-50",
+                "@go-kata":"-39"
+              },
+              "@u-kata1":{
+                "@so-kata":"-49"
+              },
+              "@usmall-hira1":{
+                "@ba-kata":"-89",
+                "@be-kata":"-89",
+                "@da-kata":"-119",
+                "@ga-kata":"-96",
+                "@gu-kata":"-179",
+                "mu-kata":"-89",
+                "na-kata":"-209",
+                "ne-kata":"-89",
+                "no-kata":"-283"
+              },
+              "a-hira":{
+                "@so-kata":"-80"
+              },
+              "a-kata":{
+                "@so-kata":"-39",
+                "na-kata":"-209",
+                "no-kata":"-318"
+              },
+              "asmall-hira":{
+                "@ba-kata":"-69",
+                "@be-kata":"-50",
+                "@da-kata":"-50",
+                "@ga-kata":"-89",
+                "@gu-kata":"-109",
+                "mu-kata":"-50",
+                "ne-kata":"-50"
+              },
+              "asmall-kata":{
+                "@ba-kata":"-80",
+                "@be-kata":"-169",
+                "@da-kata":"-258",
+                "@ga-kata":"-119",
+                "@gu-kata":"-308",
+                "@vi-kata":"-39",
+                "mu-kata":"-169",
+                "na-kata":"-298",
+                "ne-kata":"-169",
+                "no-kata":"-318",
+                "prolongedkana-kata":"-80"
+              },
+              "e-hira":{
+                "@gi-kata":"-80",
+                "@go-kata":"-89",
+                "@so-kata":"-169",
+                "na-kata":"-249",
+                "no-kata":"-249"
+              },
+              "e-kata":{
+                "@gi-kata":"-99",
+                "@go-kata":"-40"
+              },
+              "esmall-hira":{
+                "@ba-kata":"-60",
+                "@be-kata":"-40",
+                "@da-kata":"-30",
+                "@ga-kata":"-89",
+                "@gu-kata":"-89",
+                "@so-kata":"-59",
+                "mu-kata":"-40",
+                "ne-kata":"-40",
+                "prolongedkana-kata":"-38"
+              },
+              "esmall-kata":{
+                "@ba-kata":"-80",
+                "@be-kata":"-89",
+                "@da-kata":"-119",
+                "@ga-kata":"-99",
+                "@gi-kata":"-40",
+                "@go-kata":"-50",
+                "@gu-kata":"-179",
+                "mu-kata":"-89",
+                "na-kata":"-278",
+                "ne-kata":"-89",
+                "no-kata":"-318"
+              },
+              "hasmall-kata":{
+                "@ba-kata":"-119",
+                "@be-kata":"-89",
+                "@da-kata":"-119",
+                "@ga-kata":"-99",
+                "@gi-kata":"-30",
+                "@go-kata":"-50",
+                "@gu-kata":"-179",
+                "@so-kata":"-129",
+                "mu-kata":"-89",
+                "na-kata":"-228",
+                "ne-kata":"-89",
+                "no-kata":"-318"
+              },
+              "hesmall-kata":{
+                "@ba-kata":"-119",
+                "@be-kata":"-89",
+                "@da-kata":"-119",
+                "@ga-kata":"-99",
+                "@go-kata":"-29",
+                "@gu-kata":"-179",
+                "@so-kata":"-109",
+                "mu-kata":"-89",
+                "na-kata":"-228",
+                "ne-kata":"-89",
+                "no-kata":"-318"
+              },
+              "hismall-kata":{
+                "@ba-kata":"-119",
+                "@be-kata":"-89",
+                "@da-kata":"-119",
+                "@ga-kata":"-99",
+                "@gu-kata":"-179",
+                "@so-kata":"-60",
+                "mu-kata":"-89",
+                "na-kata":"-318",
+                "ne-kata":"-89",
+                "no-kata":"-318"
+              },
+              "hosmall-kata":{
+                "@ba-kata":"-99",
+                "@be-kata":"-89",
+                "@da-kata":"-119",
+                "@ga-kata":"-96",
+                "@gu-kata":"-179",
+                "mu-kata":"-89",
+                "na-kata":"-209",
+                "ne-kata":"-89",
+                "no-kata":"-309"
+              },
+              "i-hira":{
+                "@so-kata":"-60"
+              },
+              "i-kata":{
+                "@ba-kata":"-80",
+                "@be-kata":"-198",
+                "@da-kata":"-189",
+                "@ga-kata":"-129",
+                "@gi-kata":"-189",
+                "@go-kata":"-40",
+                "@gu-kata":"-198",
+                "@vi-kata":"-189",
+                "mu-kata":"-198",
+                "na-kata":"-189",
+                "ne-kata":"-198",
+                "no-kata":"-189",
+                "prolongedkana-kata":"-80",
+                "ro-kata":"-69"
+              },
+              "ismall-hira":{
+                "@ba-kata":"-80",
+                "@be-kata":"-89",
+                "@da-kata":"-129",
+                "@ga-kata":"-96",
+                "@gu-kata":"-189",
+                "mu-kata":"-99",
+                "na-kata":"-209",
+                "ne-kata":"-89",
+                "no-kata":"-309"
+              },
+              "kesmall-hira":{
+                "@ba-kata":"-80",
+                "@be-kata":"-169",
+                "@da-kata":"-219",
+                "@ga-kata":"-129",
+                "@gi-kata":"-30",
+                "@go-kata":"-39",
+                "@gu-kata":"-269",
+                "@vi-kata":"-39",
+                "mu-kata":"-169",
+                "na-kata":"-268",
+                "ne-kata":"-169",
+                "no-kata":"-318",
+                "prolongedkana-kata":"-26",
+                "ro-kata":"-38"
+              },
+              "kesmall-kata":{
+                "@ba-kata":"-80",
+                "@be-kata":"-209",
+                "@da-kata":"-258",
+                "@ga-kata":"-129",
+                "@gi-kata":"-60",
+                "@go-kata":"-50",
+                "@gu-kata":"-308",
+                "@vi-kata":"-69",
+                "mu-kata":"-209",
+                "na-kata":"-298",
+                "ne-kata":"-209",
+                "no-kata":"-318",
+                "prolongedkana-kata":"-38",
+                "ro-kata":"-65"
+              },
+              "kusmall-kata":{
+                "@ba-kata":"-80",
+                "@be-kata":"-60",
+                "@da-kata":"-69",
+                "@ga-kata":"-96",
+                "@gu-kata":"-129",
+                "mu-kata":"-60",
+                "ne-kata":"-60"
+              },
+              "ma-hira":{
+                "@so-kata":"-80"
+              },
+              "ma-kata":{
+                "@ba-kata":"-80",
+                "@be-kata":"-212",
+                "@da-kata":"-189",
+                "@ga-kata":"-139",
+                "@go-kata":"-39",
+                "@gu-kata":"-228",
+                "@vi-kata":"-79",
+                "mu-kata":"-212",
+                "na-kata":"-139",
+                "ne-kata":"-212",
+                "no-kata":"-139",
+                "prolongedkana-kata":"-26",
+                "ro-kata":"-59"
+              },
+              "me-kata":{
+                "@gi-kata":"-80",
+                "@go-kata":"-79",
+                "na-kata":"-39",
+                "no-kata":"-39"
+              },
+              "mi-hira":{
+                "@so-kata":"-109"
+              },
+              "mu-kata":{
+                "@asmall-kata":"-159",
+                "@bu-kata":"-199",
+                "@de-kata":"-149",
+                "@di-kata":"-159",
+                "@du-kata":"-159",
+                "@esmall-kata":"-80",
+                "@ge-kata":"-159",
+                "@gi-kata":"-40",
+                "@go-kata":"-39",
+                "@kesmall-hira":"-80",
+                "@osmall-hira":"-139",
+                "@so-kata":"-80",
+                "@usmall-hira":"-198",
+                "@vi-kata":"-79",
+                "asmall-hira":"-129",
+                "esmall-hira":"-80",
+                "hasmall-kata":"-89",
+                "hesmall-kata":"-89",
+                "hosmall-kata":"-80",
+                "i-kata":"-199",
+                "ismall-hira":"-109",
+                "kasmall-kata":"-80",
+                "kusmall-kata":"-89",
+                "ma-kata":"-212",
+                "musmall-kata":"-89",
+                "n-kata":"-39",
+                "nusmall-kata":"-89",
+                "osmall-kata":"-89",
+                "prolongedkana-kata":"-26",
+                "ra-kata":"-159",
+                "rasmall-kata":"-159",
+                "rismall-kata":"-119",
+                "ro-kata":"-59",
+                "rosmall-kata":"-139",
+                "sismall-kata":"-119",
+                "susmall-kata":"-89",
+                "tusmall-hira":"-119",
+                "tusmall-kata":"-198",
+                "yosmall-hira":"-119",
+                "yosmall-kata":"-89",
+                "yusmall-hira":"-80",
+                "yusmall-kata":"-80"
+              },
+              "musmall-kata":{
+                "@ba-kata":"-119",
+                "@be-kata":"-89",
+                "@da-kata":"-119",
+                "@ga-kata":"-99",
+                "@go-kata":"-39",
+                "@gu-kata":"-179",
+                "@so-kata":"-109",
+                "mu-kata":"-89",
+                "na-kata":"-228",
+                "ne-kata":"-89",
+                "no-kata":"-318"
+              },
+              "ne-hira":{
+                "@so-kata":"-189"
+              },
+              "ne-kata":{
+                "@asmall-kata":"-149",
+                "@bu-kata":"-189",
+                "@de-kata":"-139",
+                "@di-kata":"-159",
+                "@du-kata":"-159",
+                "@esmall-kata":"-69",
+                "@ge-kata":"-149",
+                "@gi-kata":"-30",
+                "@go-kata":"-29",
+                "@kesmall-hira":"-69",
+                "@osmall-hira":"-129",
+                "@so-kata":"-80",
+                "@usmall-hira":"-188",
+                "@vi-kata":"-69",
+                "asmall-hira":"-129",
+                "esmall-hira":"-69",
+                "hasmall-kata":"-79",
+                "hesmall-kata":"-79",
+                "hosmall-kata":"-69",
+                "i-kata":"-189",
+                "ismall-hira":"-99",
+                "kasmall-kata":"-69",
+                "kusmall-kata":"-79",
+                "ma-kata":"-212",
+                "musmall-kata":"-79",
+                "n-kata":"-29",
+                "nusmall-kata":"-79",
+                "osmall-kata":"-79",
+                "ra-kata":"-149",
+                "rasmall-kata":"-159",
+                "rismall-kata":"-109",
+                "ro-kata":"-50",
+                "rosmall-kata":"-129",
+                "sismall-kata":"-119",
+                "susmall-kata":"-79",
+                "tusmall-hira":"-119",
+                "tusmall-kata":"-188",
+                "yosmall-hira":"-109",
+                "yosmall-kata":"-79",
+                "yusmall-hira":"-69",
+                "yusmall-kata":"-69"
+              },
+              "ni-hira":{
+                "@so-kata":"-89"
+              },
+              "ni-kata":{
+                "@gi-kata":"-199",
+                "@go-kata":"-40"
+              },
+              "no-hira":{
+                "@so-kata":"-119"
+              },
+              "nu-kata":{
+                "@gi-kata":"-80",
+                "@go-kata":"-79",
+                "na-kata":"-39",
+                "no-kata":"-39"
+              },
+              "nusmall-kata":{
+                "@ba-kata":"-109",
+                "@be-kata":"-89",
+                "@da-kata":"-119",
+                "@ga-kata":"-99",
+                "@gi-kata":"-69",
+                "@go-kata":"-89",
+                "@gu-kata":"-179",
+                "mu-kata":"-89",
+                "na-kata":"-248",
+                "ne-kata":"-89",
+                "no-kata":"-318"
+              },
+              "o-hira":{
+                "@so-kata":"-80"
+              },
+              "prolongedkana-kata":{
+                "@ba-kata":"-51",
+                "@be-kata":"-26",
+                "@bu-kata":"-150",
+                "@da-kata":"-51",
+                "@de-kata":"-80",
+                "@ga-kata":"-38",
+                "@ge-kata":"-96",
+                "@gi-kata":"-80",
+                "@go-kata":"-68",
+                "@gu-kata":"-80",
+                "@so-kata":"-51",
+                "@usmall-hira":"-26",
+                "i-kata":"-80",
+                "ma-kata":"-38",
+                "mu-kata":"-26",
+                "n-kata":"-165",
+                "na-kata":"-129",
+                "ne-kata":"-26",
+                "no-kata":"-130",
+                "ra-kata":"-169",
+                "rasmall-kata":"-65",
+                "tusmall-kata":"-38"
+              },
+              "ra-hira":{
+                "@so-kata":"-99"
+              },
+              "re-hira":{
+                "@gi-kata":"-80",
+                "@go-kata":"-89",
+                "@so-kata":"-189",
+                "na-kata":"-80",
+                "no-kata":"-80"
+              },
+              "re-kata":{
+                "@asmall-kata":"-299",
+                "@bu-kata":"-299",
+                "@de-kata":"-199",
+                "@di-kata":"-199",
+                "@du-kata":"-149",
+                "@esmall-kata":"-299",
+                "@ge-kata":"-219",
+                "@gi-kata":"-199",
+                "@go-kata":"-40",
+                "@kesmall-hira":"-283",
+                "@osmall-hira":"-299",
+                "@so-kata":"-80",
+                "@usmall-hira":"-299",
+                "@vi-kata":"-299",
+                "asmall-hira":"-308",
+                "esmall-hira":"-299",
+                "hasmall-kata":"-308",
+                "hesmall-kata":"-308",
+                "hosmall-kata":"-283",
+                "i-kata":"-199",
+                "ismall-hira":"-283",
+                "kasmall-kata":"-299",
+                "kusmall-kata":"-308",
+                "ma-kata":"-209",
+                "musmall-kata":"-308",
+                "n-kata":"-30",
+                "nusmall-kata":"-299",
+                "osmall-kata":"-299",
+                "prolongedkana-kata":"-150",
+                "ra-kata":"-299",
+                "rasmall-kata":"-299",
+                "rismall-kata":"-299",
+                "ro-kata":"-69",
+                "rosmall-kata":"-299",
+                "sismall-kata":"-308",
+                "susmall-kata":"-308",
+                "tusmall-hira":"-308",
+                "tusmall-kata":"-308",
+                "yosmall-hira":"-308",
+                "yosmall-kata":"-299",
+                "yusmall-hira":"-299",
+                "yusmall-kata":"-299"
+              },
+              "ri-hira":{
+                "@so-kata":"-80"
+              },
+              "rismall-kata":{
+                "@ba-kata":"-80",
+                "@be-kata":"-119",
+                "@da-kata":"-179",
+                "@ga-kata":"-110",
+                "@gu-kata":"-228",
+                "mu-kata":"-119",
+                "na-kata":"-209",
+                "ne-kata":"-119",
+                "no-kata":"-309"
+              },
+              "ro-hira":{
+                "@asmall-kata":"-69",
+                "@bu-kata":"-318",
+                "@di-kata":"-129",
+                "@du-kata":"-50",
+                "@esmall-kata":"-69",
+                "@ge-kata":"-189",
+                "@osmall-hira":"-50",
+                "@so-kata":"-80",
+                "@usmall-hira":"-109",
+                "esmall-hira":"-69",
+                "hasmall-kata":"-60",
+                "hesmall-kata":"-50",
+                "i-kata":"-199",
+                "kasmall-kata":"-60",
+                "kusmall-kata":"-89",
+                "ma-kata":"-60",
+                "musmall-kata":"-50",
+                "nusmall-kata":"-96",
+                "osmall-kata":"-79",
+                "susmall-kata":"-50",
+                "tusmall-hira":"-39",
+                "tusmall-kata":"-50",
+                "yusmall-kata":"-69"
+              },
+              "ro-kata":{
+                "@asmall-kata":"-38",
+                "@ba-kata":"-79",
+                "@be-kata":"-69",
+                "@bu-kata":"-60",
+                "@da-kata":"-49",
+                "@di-kata":"-50",
+                "@du-kata":"-49",
+                "@ga-kata":"-60",
+                "@gu-kata":"-109",
+                "@osmall-hira":"-30",
+                "@so-kata":"-89",
+                "@usmall-hira":"-69",
+                "i-kata":"-60",
+                "ma-kata":"-69",
+                "mu-kata":"-69",
+                "ne-kata":"-69",
+                "tusmall-kata":"-50"
+              },
+              "rosmall-kata":{
+                "@ba-kata":"-89",
+                "@be-kata":"-129",
+                "@da-kata":"-198",
+                "@ga-kata":"-110",
+                "@gu-kata":"-248",
+                "mu-kata":"-139",
+                "na-kata":"-209",
+                "ne-kata":"-129",
+                "no-kata":"-318"
+              },
+              "ru-hira":{
+                "@so-kata":"-89"
+              },
+              "ru-kata":{
+                "@asmall-kata":"-299",
+                "@bu-kata":"-299",
+                "@de-kata":"-199",
+                "@di-kata":"-199",
+                "@du-kata":"-149",
+                "@esmall-kata":"-299",
+                "@ge-kata":"-219",
+                "@gi-kata":"-199",
+                "@go-kata":"-40",
+                "@kesmall-hira":"-283",
+                "@osmall-hira":"-299",
+                "@so-kata":"-80",
+                "@usmall-hira":"-299",
+                "@vi-kata":"-299",
+                "asmall-hira":"-308",
+                "esmall-hira":"-299",
+                "hasmall-kata":"-308",
+                "hesmall-kata":"-308",
+                "hosmall-kata":"-283",
+                "i-kata":"-199",
+                "ismall-hira":"-283",
+                "kasmall-kata":"-299",
+                "kusmall-kata":"-308",
+                "ma-kata":"-209",
+                "musmall-kata":"-308",
+                "n-kata":"-30",
+                "nusmall-kata":"-299",
+                "osmall-kata":"-299",
+                "prolongedkana-kata":"-150",
+                "ra-kata":"-299",
+                "rasmall-kata":"-299",
+                "rismall-kata":"-299",
+                "ro-kata":"-69",
+                "rosmall-kata":"-299",
+                "sismall-kata":"-308",
+                "susmall-kata":"-308",
+                "tusmall-hira":"-308",
+                "tusmall-kata":"-308",
+                "yosmall-hira":"-308",
+                "yosmall-kata":"-299",
+                "yusmall-hira":"-299",
+                "yusmall-kata":"-299"
+              },
+              "sismall-kata":{
+                "@ba-kata":"-80",
+                "@be-kata":"-129",
+                "@da-kata":"-189",
+                "@ga-kata":"-110",
+                "@gu-kata":"-238",
+                "mu-kata":"-129",
+                "na-kata":"-209",
+                "ne-kata":"-129",
+                "no-kata":"-309"
+              },
+              "susmall-kata":{
+                "@ba-kata":"-99",
+                "@be-kata":"-89",
+                "@da-kata":"-119",
+                "@ga-kata":"-99",
+                "@go-kata":"-39",
+                "@gu-kata":"-179",
+                "mu-kata":"-89",
+                "na-kata":"-228",
+                "ne-kata":"-89",
+                "no-kata":"-318"
+              },
+              "tosmall-kata":{
+                "@ba-kata":"-189",
+                "@be-kata":"-149",
+                "@da-kata":"-229",
+                "@ga-kata":"-119",
+                "@gu-kata":"-278",
+                "@so-kata":"-50",
+                "mu-kata":"-149",
+                "na-kata":"-318",
+                "ne-kata":"-149",
+                "no-kata":"-318",
+                "prolongedkana-kata":"-51"
+              },
+              "tusmall-hira":{
+                "@ba-kata":"-99",
+                "@be-kata":"-139",
+                "@da-kata":"-209",
+                "@ga-kata":"-119",
+                "@gu-kata":"-258",
+                "@so-kata":"-29",
+                "mu-kata":"-139",
+                "na-kata":"-218",
+                "ne-kata":"-139",
+                "no-kata":"-318"
+              },
+              "tusmall-kata":{
+                "@ba-kata":"-80",
+                "@be-kata":"-208",
+                "@da-kata":"-209",
+                "@ga-kata":"-139",
+                "@go-kata":"-39",
+                "@gu-kata":"-268",
+                "@vi-kata":"-69",
+                "mu-kata":"-209",
+                "na-kata":"-119",
+                "ne-kata":"-208",
+                "no-kata":"-119",
+                "prolongedkana-kata":"-26",
+                "ro-kata":"-59"
+              },
+              "wa-hira":{
+                "@so-kata":"-80"
+              },
+              "we-hira":{
+                "@asmall-kata":"-169",
+                "@ba-kata":"-69",
+                "@be-kata":"-60",
+                "@bu-kata":"-338",
+                "@da-kata":"-39",
+                "@de-kata":"-139",
+                "@di-kata":"-169",
+                "@du-kata":"-119",
+                "@esmall-kata":"-89",
+                "@ga-kata":"-109",
+                "@ge-kata":"-129",
+                "@gu-kata":"-99",
+                "@kesmall-hira":"-89",
+                "@osmall-hira":"-149",
+                "@so-kata":"-209",
+                "@usmall-hira":"-208",
+                "asmall-hira":"-119",
+                "esmall-hira":"-89",
+                "hasmall-kata":"-99",
+                "hesmall-kata":"-99",
+                "hosmall-kata":"-89",
+                "i-kata":"-219",
+                "ismall-hira":"-99",
+                "kasmall-kata":"-89",
+                "kusmall-kata":"-99",
+                "ma-kata":"-169",
+                "mu-kata":"-60",
+                "musmall-kata":"-99",
+                "ne-kata":"-60",
+                "nusmall-kata":"-99",
+                "osmall-kata":"-99",
+                "ra-kata":"-149",
+                "rasmall-kata":"-169",
+                "rismall-kata":"-99",
+                "rosmall-kata":"-119",
+                "sismall-kata":"-109",
+                "susmall-kata":"-99",
+                "tusmall-hira":"-109",
+                "tusmall-kata":"-188",
+                "yosmall-hira":"-99",
+                "yosmall-kata":"-99",
+                "yusmall-hira":"-89",
+                "yusmall-kata":"-89"
+              },
+              "wo-hira":{
+                "@asmall-kata":"-50",
+                "@bu-kata":"-318",
+                "@de-kata":"-40",
+                "@di-kata":"-50",
+                "@du-kata":"-69",
+                "@ge-kata":"-110",
+                "@gu-kata":"-39",
+                "@osmall-hira":"-30",
+                "@so-kata":"-99",
+                "@usmall-hira":"-89",
+                "i-kata":"-199",
+                "ma-kata":"-99",
+                "ra-kata":"-50",
+                "rasmall-kata":"-79",
+                "tusmall-kata":"-79"
+              },
+              "ya-kata":{
+                "@asmall-kata":"-50",
+                "@ba-kata":"-119",
+                "@be-kata":"-89",
+                "@bu-kata":"-318",
+                "@da-kata":"-109",
+                "@di-kata":"-50",
+                "@du-kata":"-59",
+                "@ga-kata":"-109",
+                "@ge-kata":"-69",
+                "@gu-kata":"-159",
+                "@osmall-hira":"-30",
+                "@so-kata":"-109",
+                "@usmall-hira":"-89",
+                "i-kata":"-199",
+                "ma-kata":"-89",
+                "mu-kata":"-89",
+                "ne-kata":"-89",
+                "ra-kata":"-29",
+                "rasmall-kata":"-50",
+                "tusmall-kata":"-69"
+              },
+              "yasmall-hira":{
+                "@ba-kata":"-99",
+                "@be-kata":"-129",
+                "@da-kata":"-198",
+                "@ga-kata":"-110",
+                "@gu-kata":"-248",
+                "mu-kata":"-139",
+                "na-kata":"-209",
+                "ne-kata":"-129",
+                "no-kata":"-318"
+              },
+              "yasmall-kata":{
+                "@ba-kata":"-189",
+                "@be-kata":"-149",
+                "@da-kata":"-228",
+                "@ga-kata":"-119",
+                "@gu-kata":"-278",
+                "@so-kata":"-50",
+                "mu-kata":"-149",
+                "na-kata":"-218",
+                "ne-kata":"-149",
+                "no-kata":"-318",
+                "prolongedkana-kata":"-65"
+              },
+              "yosmall-hira":{
+                "@ba-kata":"-99",
+                "@be-kata":"-149",
+                "@da-kata":"-229",
+                "@ga-kata":"-119",
+                "@gu-kata":"-278",
+                "mu-kata":"-149",
+                "na-kata":"-298",
+                "ne-kata":"-149",
+                "no-kata":"-318",
+                "prolongedkana-kata":"-51"
+              },
+              "yu-hira":{
+                "@so-kata":"-119"
+              },
+              "yu-kata":{
+                "@asmall-kata":"-189",
+                "@bu-kata":"-189",
+                "@de-kata":"-189",
+                "@di-kata":"-189",
+                "@du-kata":"-149",
+                "@esmall-kata":"-189",
+                "@ge-kata":"-189",
+                "@gi-kata":"-189",
+                "@go-kata":"-40",
+                "@kesmall-hira":"-169",
+                "@osmall-hira":"-189",
+                "@so-kata":"-80",
+                "@usmall-hira":"-189",
+                "@vi-kata":"-189",
+                "asmall-hira":"-198",
+                "esmall-hira":"-189",
+                "hasmall-kata":"-198",
+                "hesmall-kata":"-198",
+                "hosmall-kata":"-169",
+                "i-kata":"-189",
+                "ismall-hira":"-189",
+                "kasmall-kata":"-189",
+                "kusmall-kata":"-198",
+                "ma-kata":"-198",
+                "musmall-kata":"-198",
+                "n-kata":"-30",
+                "nusmall-kata":"-189",
+                "osmall-kata":"-189",
+                "prolongedkana-kata":"-80",
+                "ra-kata":"-189",
+                "rasmall-kata":"-189",
+                "rismall-kata":"-189",
+                "ro-kata":"-69",
+                "rosmall-kata":"-189",
+                "sismall-kata":"-198",
+                "susmall-kata":"-198",
+                "tusmall-hira":"-198",
+                "tusmall-kata":"-198",
+                "yosmall-hira":"-198",
+                "yosmall-kata":"-189",
+                "yusmall-hira":"-189",
+                "yusmall-kata":"-189"
+              },
+              "yusmall-hira":{
+                "@ba-kata":"-99",
+                "@be-kata":"-129",
+                "@da-kata":"-189",
+                "@ga-kata":"-110",
+                "@gu-kata":"-239",
+                "@so-kata":"-29",
+                "mu-kata":"-139",
+                "na-kata":"-209",
+                "ne-kata":"-129",
+                "no-kata":"-318"
+              },
+              "yusmall-kata":{
+                "@ba-kata":"-119",
+                "@be-kata":"-89",
+                "@da-kata":"-119",
+                "@ga-kata":"-99",
+                "@gi-kata":"-89",
+                "@go-kata":"-99",
+                "@gu-kata":"-179",
+                "@so-kata":"-99",
+                "mu-kata":"-89",
+                "na-kata":"-318",
+                "ne-kata":"-89",
+                "no-kata":"-318"
+              }
+            }
           },
           "fontZonesT":[
             {
