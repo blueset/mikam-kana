@@ -1,7 +1,7 @@
 {
   "version":8,
   "font":{
-    "glyphsCount":340,
+    "glyphsCount":341,
     "upm":2058,
     "glyphs":[
       {
@@ -613,7 +613,7 @@
       {
         "name":"i-hira",
         "unicode":"3044",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -721,7 +721,7 @@
       {
         "name":"u-hira",
         "unicode":"3046",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -756,7 +756,7 @@
       {
         "name":"vu-hira",
         "unicode":"3094",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -876,7 +876,7 @@
       {
         "name":"e-hira",
         "unicode":"3048",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -1114,7 +1114,7 @@
       {
         "name":"ka-hira",
         "unicode":"304b",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -1158,7 +1158,7 @@
       {
         "name":"ga-hira",
         "unicode":"304c",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -1262,7 +1262,7 @@
       {
         "name":"gi-hira",
         "unicode":"304e",
-        "lastModified":"2026-05-30 18:16:30",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -1296,7 +1296,7 @@
                 "point":"483 0"
               },
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"350 1814"
               }
             ]
@@ -1306,7 +1306,7 @@
       {
         "name":"ku-hira",
         "unicode":"304f",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular:c",
@@ -1340,7 +1340,7 @@
       {
         "name":"gu-hira",
         "unicode":"3050",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -1373,7 +1373,7 @@
                 "point":"616 0"
               },
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"616 1546"
               }
             ]
@@ -1535,7 +1535,7 @@
       {
         "name":"ko-hira",
         "unicode":"3053",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "colorFlag":240,
         "layers":[
           {
@@ -1548,8 +1548,10 @@
             "metricsRight":"|s",
             "elements":[
               {
-                "component":{
-                  "glyphName":"tonetwo"
+                "elementData":{
+                  "component":{
+                    "glyphName":"tonetwo"
+                  }
                 }
               }
             ],
@@ -1573,7 +1575,7 @@
       {
         "name":"go-hira",
         "unicode":"3054",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -1606,7 +1608,7 @@
                 "point":"534 0"
               },
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"527 1546"
               }
             ]
@@ -1666,7 +1668,7 @@
       {
         "name":"za-hira",
         "unicode":"3056",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -1700,7 +1702,7 @@
                 "point":"433 0"
               },
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"279 1814"
               }
             ]
@@ -1773,7 +1775,7 @@
       {
         "name":"zi-hira",
         "unicode":"3058",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -1802,7 +1804,7 @@
                 "point":"248 0"
               },
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"249 1546"
               }
             ]
@@ -1945,7 +1947,7 @@
       {
         "name":"zu-hira",
         "unicode":"305a",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -1975,7 +1977,7 @@
                 "point":"664.997 -459"
               },
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"1009 1920"
               }
             ]
@@ -2115,7 +2117,7 @@
       {
         "name":"so-hira",
         "unicode":"305d",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -2147,7 +2149,7 @@
       {
         "name":"zo-hira",
         "unicode":"305e",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -2176,7 +2178,7 @@
                 "point":"552 0"
               },
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"558 1546"
               }
             ]
@@ -2238,7 +2240,7 @@
       {
         "name":"da-hira",
         "unicode":"3060",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -2272,7 +2274,7 @@
                 "point":"1166 0"
               },
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"1159 1546"
               }
             ]
@@ -2311,7 +2313,7 @@
       {
         "name":"di-hira",
         "unicode":"3062",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -2337,7 +2339,7 @@
             ],
             "anchors":[
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"533 1772"
               }
             ]
@@ -2457,7 +2459,7 @@
       {
         "name":"du-hira",
         "unicode":"3065",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -2489,7 +2491,7 @@
                 "point":"586 0"
               },
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"586 1546"
               }
             ]
@@ -2712,7 +2714,7 @@
       {
         "name":"do-hira",
         "unicode":"3069",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -2745,7 +2747,7 @@
                 "point":"637 0"
               },
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"637 1546"
               }
             ]
@@ -2796,7 +2798,7 @@
       {
         "name":"ni-hira",
         "unicode":"306b",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -3449,7 +3451,7 @@
       {
         "name":"hi-hira",
         "unicode":"3072",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -3458,10 +3460,8 @@
             "advanceWidth":1217,
             "elements":[
               {
-                "elementData":{
-                  "component":{
-                    "glyphName":"u"
-                  }
+                "component":{
+                  "glyphName":"u"
                 }
               }
             ],
@@ -3485,7 +3485,7 @@
       {
         "name":"bi-hira",
         "unicode":"3073",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -3514,7 +3514,7 @@
                 "point":"1058 0"
               },
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"608 1546"
               }
             ]
@@ -3524,7 +3524,7 @@
       {
         "name":"pi-hira",
         "unicode":"3074",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -3566,7 +3566,7 @@
       {
         "name":"hu-hira",
         "unicode":"3075",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -3608,7 +3608,7 @@
       {
         "name":"bu-hira",
         "unicode":"3076",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -3648,10 +3648,6 @@
                 "point":"1020 0"
               },
               {
-                "name":"t.uni030F_2",
-                "point":"1020 1920"
-              },
-              {
                 "name":"t.uni030F",
                 "point":"1020 2344"
               }
@@ -3662,7 +3658,7 @@
       {
         "name":"pu-hira",
         "unicode":"3077",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -3712,7 +3708,7 @@
       {
         "name":"he-hira",
         "unicode":"3078",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -3721,10 +3717,8 @@
             "advanceWidth":1157,
             "elements":[
               {
-                "elementData":{
-                  "component":{
-                    "glyphName":"vturn"
-                  }
+                "component":{
+                  "glyphName":"vturn"
                 }
               }
             ],
@@ -3744,7 +3738,7 @@
       {
         "name":"be-hira",
         "unicode":"3079",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -3772,7 +3766,7 @@
                 "point":"573 0"
               },
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"573 1546"
               }
             ]
@@ -3782,7 +3776,7 @@
       {
         "name":"pe-hira",
         "unicode":"307a",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -3968,7 +3962,7 @@
       {
         "name":"bo-hira",
         "unicode":"307c",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -4004,7 +3998,7 @@
                 "point":"819 0"
               },
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"975 1546"
               }
             ]
@@ -4014,7 +4008,7 @@
       {
         "name":"po-hira",
         "unicode":"307d",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -4180,7 +4174,7 @@
       {
         "name":"mi-hira",
         "unicode":"307f",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -4206,7 +4200,7 @@
       {
         "name":"mu-hira",
         "unicode":"3080",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -4242,7 +4236,7 @@
       {
         "name":"me-hira",
         "unicode":"3081",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -4272,7 +4266,7 @@
       {
         "name":"mo-hira",
         "unicode":"3082",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -4400,7 +4394,7 @@
       {
         "name":"ya-hira",
         "unicode":"3084",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -4832,7 +4826,7 @@
       {
         "name":"ra-hira",
         "unicode":"3089",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -4866,7 +4860,7 @@
       {
         "name":"ri-hira",
         "unicode":"308a",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -5043,7 +5037,7 @@
       {
         "name":"ro-hira",
         "unicode":"308d",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -5144,7 +5138,7 @@
       {
         "name":"wa-hira",
         "unicode":"308f",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -5162,14 +5156,14 @@
                   "glyphName":"eng"
                 },
                 "transform":{
-                  "xOffset":1
+                  "xOffset":0.5
                 }
               }
             ],
             "anchors":[
               {
                 "name":"m.uni0326",
-                "point":"609 0"
+                "point":"608.5 0"
               },
               {
                 "name":"m.uni0327",
@@ -5177,7 +5171,7 @@
               },
               {
                 "name":"t.uni030F",
-                "point":"609 1123"
+                "point":"608.5 1123"
               }
             ]
           }
@@ -5417,7 +5411,7 @@
       {
         "name":"n-hira",
         "unicode":"3093",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -5486,7 +5480,7 @@
       {
         "name":"voicediteration-hira",
         "unicode":"309e",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -5510,7 +5504,7 @@
             ],
             "anchors":[
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"325 1546"
               }
             ]
@@ -5691,7 +5685,7 @@
       {
         "name":"i-kata",
         "unicode":"30a4",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -5816,7 +5810,7 @@
       {
         "name":"u-kata",
         "unicode":"30a6",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -5860,7 +5854,7 @@
       {
         "name":"vu-kata",
         "unicode":"30f4",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -5975,7 +5969,7 @@
       {
         "name":"e-kata",
         "unicode":"30a8",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -6202,7 +6196,7 @@
       {
         "name":"ka-kata",
         "unicode":"30ab",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -6211,10 +6205,8 @@
             "advanceWidth":1539,
             "elements":[
               {
-                "elementData":{
-                  "component":{
-                    "glyphName":"Elcyr"
-                  }
+                "component":{
+                  "glyphName":"Elcyr"
                 }
               }
             ],
@@ -6234,7 +6226,7 @@
       {
         "name":"ga-kata",
         "unicode":"30ac",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -6264,7 +6256,7 @@
                 "point":"804 0"
               },
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"890 1920"
               }
             ]
@@ -6334,7 +6326,7 @@
       {
         "name":"gi-kata",
         "unicode":"30ae",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -6368,7 +6360,7 @@
                 "point":"666 0"
               },
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"665 1920"
               }
             ]
@@ -6731,7 +6723,7 @@
       {
         "name":"ge-kata",
         "unicode":"30b2",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -6765,7 +6757,7 @@
                 "point":"668.5 0"
               },
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"668 1920"
               }
             ]
@@ -6775,7 +6767,7 @@
       {
         "name":"ko-kata",
         "unicode":"30b3",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -6784,10 +6776,8 @@
             "advanceWidth":1503,
             "elements":[
               {
-                "elementData":{
-                  "component":{
-                    "glyphName":"Oopen"
-                  }
+                "component":{
+                  "glyphName":"Oopen"
                 }
               }
             ],
@@ -6811,7 +6801,7 @@
       {
         "name":"go-kata",
         "unicode":"30b4",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -6844,7 +6834,7 @@
                 "point":"717 1508"
               },
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"752 1920"
               }
             ]
@@ -6854,7 +6844,7 @@
       {
         "name":"sa-kata",
         "unicode":"30b5",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -6890,7 +6880,7 @@
       {
         "name":"za-kata",
         "unicode":"30b6",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -6924,7 +6914,7 @@
                 "point":"278 1"
               },
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"764 1920"
               }
             ]
@@ -7123,7 +7113,7 @@
       {
         "name":"zi-kata",
         "unicode":"30b8",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -7157,7 +7147,7 @@
                 "point":"766 0"
               },
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"766 1920"
               }
             ]
@@ -7400,7 +7390,7 @@
       {
         "name":"ze-kata",
         "unicode":"30bc",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -7426,7 +7416,7 @@
             ],
             "anchors":[
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"655 1920"
               }
             ]
@@ -7436,7 +7426,7 @@
       {
         "name":"so-kata",
         "unicode":"30bd",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -7445,10 +7435,8 @@
             "advanceWidth":1293,
             "elements":[
               {
-                "elementData":{
-                  "component":{
-                    "glyphName":"Ucyr"
-                  }
+                "component":{
+                  "glyphName":"Ucyr"
                 }
               }
             ],
@@ -7642,7 +7630,7 @@
       {
         "name":"ti-kata",
         "unicode":"30c1",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -7651,10 +7639,8 @@
             "advanceWidth":1328,
             "elements":[
               {
-                "elementData":{
-                  "component":{
-                    "glyphName":"Tbar"
-                  }
+                "component":{
+                  "glyphName":"Tbar"
                 }
               }
             ],
@@ -7889,7 +7875,7 @@
       {
         "name":"du-kata",
         "unicode":"30c5",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -7919,7 +7905,7 @@
                 "point":"1014 0"
               },
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"1014 1920"
               }
             ]
@@ -7929,7 +7915,7 @@
       {
         "name":"te-kata",
         "unicode":"30c6",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -7938,10 +7924,8 @@
             "advanceWidth":1328,
             "elements":[
               {
-                "elementData":{
-                  "component":{
-                    "glyphName":"tenge"
-                  }
+                "component":{
+                  "glyphName":"tenge"
                 }
               }
             ],
@@ -7961,7 +7945,7 @@
       {
         "name":"de-kata",
         "unicode":"30c7",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -7991,7 +7975,7 @@
                 "point":"666 0"
               },
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"665 1920"
               }
             ]
@@ -8422,7 +8406,7 @@
       {
         "name":"ne-kata",
         "unicode":"30cd",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -8458,7 +8442,7 @@
       {
         "name":"no-kata",
         "unicode":"30ce",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -8582,7 +8566,7 @@
       {
         "name":"ba-kata",
         "unicode":"30d0",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -8608,7 +8592,7 @@
             ],
             "anchors":[
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"646 1920"
               }
             ]
@@ -8618,7 +8602,7 @@
       {
         "name":"pa-kata",
         "unicode":"30d1",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -8959,7 +8943,7 @@
       {
         "name":"bu-kata",
         "unicode":"30d6",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -8985,7 +8969,7 @@
             ],
             "anchors":[
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"557 1922"
               }
             ]
@@ -8995,7 +8979,7 @@
       {
         "name":"pu-kata",
         "unicode":"30d7",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -9088,7 +9072,7 @@
       {
         "name":"he-kata",
         "unicode":"30d8",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -9169,7 +9153,7 @@
       {
         "name":"pe-kata",
         "unicode":"30da",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -9379,7 +9363,7 @@
       {
         "name":"bo-kata",
         "unicode":"30dc",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -9405,7 +9389,7 @@
             ],
             "anchors":[
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"906 1920"
               }
             ]
@@ -9415,7 +9399,7 @@
       {
         "name":"po-kata",
         "unicode":"30dd",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -9476,7 +9460,7 @@
       {
         "name":"mi-kata",
         "unicode":"30df",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -9558,7 +9542,7 @@
       {
         "name":"mu-kata",
         "unicode":"30e0",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -9578,7 +9562,7 @@
       {
         "name":"me-kata",
         "unicode":"30e1",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -9608,7 +9592,7 @@
       {
         "name":"mo-kata",
         "unicode":"30e2",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -9719,7 +9703,7 @@
       {
         "name":"ya-kata",
         "unicode":"30e4",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -9948,7 +9932,7 @@
       {
         "name":"yo-kata",
         "unicode":"30e8",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -10354,7 +10338,7 @@
       {
         "name":"ru-kata",
         "unicode":"30eb",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -10452,7 +10436,7 @@
       {
         "name":"re-kata",
         "unicode":"30ec",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -10482,7 +10466,7 @@
       {
         "name":"rosmall-kata",
         "unicode":"31ff",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -10516,7 +10500,7 @@
       {
         "name":"ro-kata",
         "unicode":"30ed",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -10656,7 +10640,7 @@
       {
         "name":"va-kata",
         "unicode":"30f7",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -10690,7 +10674,7 @@
                 "point":"1351 509"
               },
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"767 1920"
               }
             ]
@@ -10860,7 +10844,7 @@
       {
         "name":"ve-kata",
         "unicode":"30f9",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -10886,7 +10870,7 @@
             ],
             "anchors":[
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"757 1920"
               }
             ]
@@ -10935,7 +10919,7 @@
       {
         "name":"vo-kata",
         "unicode":"30fa",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -10965,7 +10949,7 @@
                 "point":"945 5"
               },
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"595 1920"
               }
             ]
@@ -11115,7 +11099,7 @@
       {
         "name":"voicediteration-kata",
         "unicode":"30fe",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -11141,7 +11125,7 @@
             ],
             "anchors":[
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"389 1920"
               }
             ]
@@ -11151,7 +11135,7 @@
       {
         "name":"voicedcomb-hira",
         "unicode":"3099",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "openTypeGlyphClass":3,
         "layers":[
           {
@@ -11174,7 +11158,7 @@
                 "point":"608 1123"
               },
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"608 1546"
               }
             ]
@@ -11184,7 +11168,7 @@
       {
         "name":"semivoicedcomb-hira",
         "unicode":"309a",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "openTypeGlyphClass":3,
         "layers":[
           {
@@ -11194,10 +11178,8 @@
             "advanceWidth":0,
             "elements":[
               {
-                "elementData":{
-                  "component":{
-                    "glyphName":"ringcomb"
-                  }
+                "component":{
+                  "glyphName":"ringcomb"
                 }
               }
             ],
@@ -11323,7 +11305,7 @@
       {
         "name":"middledot-kata",
         "unicode":"30fb",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -11343,7 +11325,7 @@
       {
         "name":"prolongedkana-kata",
         "unicode":"30fc",
-        "lastModified":"2026-05-30 18:04:39",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -11355,6 +11337,181 @@
                 "component":{
                   "glyphName":"endash.case"
                 }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"circledotted",
+        "unicode":"25cc",
+        "lastModified":"2026-05-31 18:02:31",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1222,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "611.226 1111.32 s",
+                        "582.414 1111.32  557.718 1086.62  557.718 1057.81 s",
+                        "557.718 1029  582.414 1004.3  611.226 1004.3 s",
+                        "640.038 1004.3  664.734 1029  664.734 1057.81 s",
+                        "664.734 1086.62  640.038 1111.32 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "438.354 1074.28 s",
+                        "409.542 1074.28  384.846 1049.58  384.846 1020.77 s",
+                        "384.846 991.956  409.542 967.26  438.354 967.26 s",
+                        "467.166 967.26  491.862 991.956  491.862 1020.77 s",
+                        "491.862 1049.58  467.166 1074.28 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "784.098 1074.28 s",
+                        "755.286 1074.28  730.59 1049.58  730.59 1020.77 s",
+                        "730.59 991.956  755.286 967.26  784.098 967.26 s",
+                        "812.91 967.26  837.606 991.956  837.606 1020.77 s",
+                        "837.606 1049.58  812.91 1074.28 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "232.554 924.042 s",
+                        "232.554 895.23  257.25 870.534  286.062 870.534 s",
+                        "314.874 870.534  339.57 895.23  339.57 924.042 s",
+                        "339.57 952.854  314.874 977.55  286.062 977.55 s",
+                        "257.25 977.55  232.554 952.854 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "882.882 924.042 s",
+                        "882.882 895.23  907.578 870.534  936.39 870.534 s",
+                        "965.202 870.534  989.898 895.23  989.898 924.042 s",
+                        "989.898 952.854  965.202 977.55  936.39 977.55 s",
+                        "907.578 977.55  882.882 952.854 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "135.828 771.75 s",
+                        "135.828 742.938  160.524 718.242  189.336 718.242 s",
+                        "218.148 718.242  242.844 742.938  242.844 771.75 s",
+                        "242.844 800.562  218.148 825.258  189.336 825.258 s",
+                        "160.524 825.258  135.828 800.562 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "979.608 771.75 s",
+                        "979.608 742.938  1004.3 718.242  1033.12 718.242 s",
+                        "1061.93 718.242  1086.62 742.938  1086.62 771.75 s",
+                        "1086.62 800.562  1061.93 825.258  1033.12 825.258 s",
+                        "1004.3 825.258  979.608 800.562 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "98.784 598.878 s",
+                        "98.784 570.066  123.48 545.37  152.292 545.37 s",
+                        "181.104 545.37  205.8 570.066  205.8 598.878 s",
+                        "205.8 627.69  181.104 652.386  152.292 652.386 s",
+                        "123.48 652.386  98.784 627.69 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "1016.65 598.878 s",
+                        "1016.65 570.066  1041.35 545.37  1070.16 545.37 s",
+                        "1098.97 545.37  1123.67 570.066  1123.67 598.878 s",
+                        "1123.67 627.69  1098.97 652.386  1070.16 652.386 s",
+                        "1041.35 652.386  1016.65 627.69 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "135.828 426.006 s",
+                        "135.828 397.194  160.524 372.498  189.336 372.498 s",
+                        "218.148 372.498  242.844 397.194  242.844 426.006 s",
+                        "242.844 454.818  218.148 479.514  189.336 479.514 s",
+                        "160.524 479.514  135.828 454.818 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "979.608 426.006 s",
+                        "979.608 397.194  1004.3 372.498  1033.12 372.498 s",
+                        "1061.93 372.498  1086.62 397.194  1086.62 426.006 s",
+                        "1086.62 454.818  1061.93 479.514  1033.12 479.514 s",
+                        "1004.3 479.514  979.608 454.818 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "232.554 273.714 s",
+                        "232.554 244.902  257.25 220.206  286.062 220.206 s",
+                        "314.874 220.206  339.57 244.902  339.57 273.714 s",
+                        "339.57 302.526  314.874 327.222  286.062 327.222 s",
+                        "257.25 327.222  232.554 302.526 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "882.882 273.714 s",
+                        "882.882 244.902  907.578 220.206  936.39 220.206 s",
+                        "965.202 220.206  989.898 244.902  989.898 273.714 s",
+                        "989.898 302.526  965.202 327.222  936.39 327.222 s",
+                        "907.578 327.222  882.882 302.526 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "438.354 230.496 s",
+                        "409.542 230.496  384.846 205.8  384.846 176.988 s",
+                        "384.846 148.176  409.542 123.48  438.354 123.48 s",
+                        "467.166 123.48  491.862 148.176  491.862 176.988 s",
+                        "491.862 205.8  467.166 230.496 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "784.098 230.496 s",
+                        "755.286 230.496  730.59 205.8  730.59 176.988 s",
+                        "730.59 148.176  755.286 123.48  784.098 123.48 s",
+                        "812.91 123.48  837.606 148.176  837.606 176.988 s",
+                        "837.606 205.8  812.91 230.496 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "611.226 193.452 s",
+                        "582.414 193.452  557.718 168.756  557.718 139.944 s",
+                        "557.718 111.132  582.414 86.436  611.226 86.436 s",
+                        "640.038 86.436  664.734 111.132  664.734 139.944 s",
+                        "664.734 168.756  640.038 193.452 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "anchors":[
+              {
+                "name":"b.uni093C.sat_2",
+                "point":"911.694 -308.7"
+              },
+              {
+                "name":"t.uni030F",
+                "point":"611.226 1111.32"
               }
             ]
           }
@@ -12063,7 +12220,7 @@
       {
         "name":"dieresiscomb",
         "unicode":"0308",
-        "lastModified":"2026-05-30 18:04:37",
+        "lastModified":"2026-05-31 18:01:58",
         "openTypeGlyphClass":3,
         "layers":[
           {
@@ -12120,7 +12277,7 @@
                 "point":"608 1123"
               },
               {
-                "name":"t.uni030F_2",
+                "name":"t.uni030F",
                 "point":"608 1546"
               }
             ]
@@ -12534,7 +12691,7 @@
       {
         "name":"c",
         "unicode":"0063",
-        "lastModified":"2026-05-30 01:10:23",
+        "lastModified":"2026-05-31 16:40:05",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -14428,7 +14585,7 @@
       {
         "name":"p",
         "unicode":"0070",
-        "lastModified":"2026-05-27 20:50:06",
+        "lastModified":"2026-05-31 16:40:05",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -15913,7 +16070,7 @@
       {
         "name":"e",
         "unicode":"0065",
-        "lastModified":"2026-05-27 20:50:06",
+        "lastModified":"2026-05-31 16:40:05",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -16229,7 +16386,7 @@
       {
         "name":"U",
         "unicode":"0055",
-        "lastModified":"2026-05-30 17:12:17",
+        "lastModified":"2026-05-31 16:40:05",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -16306,7 +16463,7 @@
       {
         "name":"I",
         "unicode":"0049",
-        "lastModified":"2026-05-27 20:50:06",
+        "lastModified":"2026-05-31 16:40:05",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -17521,7 +17678,7 @@
       {
         "name":"L",
         "unicode":"004c",
-        "lastModified":"2026-05-27 20:50:06",
+        "lastModified":"2026-05-31 16:40:05",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -18616,7 +18773,7 @@
       {
         "name":"E",
         "unicode":"0045",
-        "lastModified":"2026-05-29 01:40:51",
+        "lastModified":"2026-05-31 16:40:05",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -19299,7 +19456,7 @@
       {
         "name":"O",
         "unicode":"004f",
-        "lastModified":"2026-05-27 20:50:06",
+        "lastModified":"2026-05-31 16:40:05",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -20753,7 +20910,7 @@
       },
       {
         "name":"mu-hira-base",
-        "lastModified":"2026-05-28 17:28:58",
+        "lastModified":"2026-05-31 18:19:19",
         "layers":[
           {
             "name":"Regular",
@@ -20766,13 +20923,11 @@
                   "contours":[
                     {
                       "nodes":[
-                        "1204 -429 s",
+                        "1207.26 -429 s",
                         "1248 -429  1288 -425  1308 -420",
                         "1308 -269",
-                        "1288 -272  1266 -273  1250 -273 s",
-                        "1138 -273  1093 -242  1093 -172 s",
-                        "1093 0",
-                        "1101 0",
+                        "1288 -272  1274.35 -273  1254.86 -273 s",
+                        "1146.35 -273  1101.35 -242  1101.35 -172 s",
                         "1101 1241",
                         "1250 1241",
                         "1250 1380",
@@ -21845,7 +22000,7 @@
       "metaBuild":"8950"
     },
     "settings":{
-      "settings.RoundCoordinates":"round"
+      "settings.RoundCoordinates":"float"
     },
     "masters":[
       {
@@ -21872,7 +22027,7 @@
           "curveTension":0.598,
           "cornerTension":0.67,
           "inktrapLen":4,
-          "panose":"2 0 5 3 0 0 0 2 0 4",
+          "panose":"0 0 0 0 0 0 0 0 0 0",
           "otherData":{
             "DistanceX":102,
             "DistanceY":102,
@@ -21901,6 +22056,7 @@
             "hhea_descender":-496,
             "hhea_line_gap":0,
             "hhea_use_custom":false,
+            "hinting.forceBold":0,
             "strikeout_position":674,
             "strikeout_size":141,
             "subscript_x_offset":0,
@@ -23244,6 +23400,7 @@
                 "@ga-kata":"-129",
                 "@gu-kata":"-159",
                 "@vi-kata":"-50",
+                "mu-hira":"-120",
                 "mu-kata":"-159",
                 "na-kata":"-89",
                 "ne-kata":"-159",
@@ -24385,6 +24542,13 @@
             "UP":"-100"
           }
         }
+      }
+    ],
+    "tables":[
+      {
+        "name":"name",
+        "xml":"\r\n<namerecord nameID=\"1\" platformID=\"1\" platEncID=\"0\" langID=\"0x0\" unicode=\"True\">Mìkam Kana</namerecord>\r\n<namerecord nameID=\"2\" platformID=\"1\" platEncID=\"0\" langID=\"0x0\" unicode=\"True\">Regular</namerecord>\r\n<namerecord nameID=\"4\" platformID=\"1\" platEncID=\"0\" langID=\"0x0\" unicode=\"True\">Mìkam Kana Regular</namerecord>\r\n<namerecord nameID=\"5\" platformID=\"1\" platEncID=\"0\" langID=\"0x0\" unicode=\"True\">Version 4.001; Inter Version 4.001+git-9221beed3</namerecord>\r\n<namerecord nameID=\"6\" platformID=\"1\" platEncID=\"0\" langID=\"0x0\" unicode=\"True\">MikamKana-Regular</namerecord>\r\n\r\n<namerecord nameID=\"0\" platformID=\"3\" platEncID=\"1\" langID=\"0x409\">Copyright 2025 Eana Hufwe, 1A23 Studio\r\nCopyright 2016 The Inter Project Authors</namerecord>\r\n<namerecord nameID=\"1\" platformID=\"3\" platEncID=\"1\" langID=\"0x409\">Mìkam Kana</namerecord>\r\n<namerecord nameID=\"2\" platformID=\"3\" platEncID=\"1\" langID=\"0x409\">Regular</namerecord>\r\n<namerecord nameID=\"3\" platformID=\"3\" platEncID=\"1\" langID=\"0x409\">Version 4.001; Inter Version 4.001+git-9221beed3;1A23;MikamKana-Regular;2026;FL842</namerecord>\r\n<namerecord nameID=\"4\" platformID=\"3\" platEncID=\"1\" langID=\"0x409\">Mìkam Kana Regular</namerecord>\r\n<namerecord nameID=\"5\" platformID=\"3\" platEncID=\"1\" langID=\"0x409\">Version 4.001; Inter Version 4.001+git-9221beed3</namerecord>\r\n<namerecord nameID=\"6\" platformID=\"3\" platEncID=\"1\" langID=\"0x409\">MikamKana-Regular</namerecord>\r\n<namerecord nameID=\"7\" platformID=\"3\" platEncID=\"1\" langID=\"0x409\">Inter UI and Inter is a trademark of rsms.</namerecord>\r\n<namerecord nameID=\"8\" platformID=\"3\" platEncID=\"1\" langID=\"0x409\">1A23 Studio</namerecord>\r\n<namerecord nameID=\"9\" platformID=\"3\" platEncID=\"1\" langID=\"0x409\">Eana Hufwe; Rasmus Andersson</namerecord>\r\n<namerecord nameID=\"11\" platformID=\"3\" platEncID=\"1\" langID=\"0x409\">https://1a23.studio/</namerecord>\r\n<namerecord nameID=\"12\" platformID=\"3\" platEncID=\"1\" langID=\"0x409\">https://1a23.studio/</namerecord>\r\n<namerecord nameID=\"13\" platformID=\"3\" platEncID=\"1\" langID=\"0x409\">This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org/</namerecord>\r\n<namerecord nameID=\"14\" platformID=\"3\" platEncID=\"1\" langID=\"0x409\">https://openfontlicense.org/</namerecord>\r\n\r\n<namerecord nameID=\"1\" platformID=\"3\" platEncID=\"1\" langID=\"0x411\">みっかん</namerecord>\r\n<namerecord nameID=\"4\" platformID=\"3\" platEncID=\"1\" langID=\"0x411\">みっかん Regular</namerecord>\r\n",
+        "flags":1
       }
     ],
     "expressionsUpdated":true
