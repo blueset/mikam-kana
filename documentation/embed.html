@@ -92,6 +92,19 @@
 			top: 1rem;
 		}
 
+		/*
+		 * Emulated-sticky mode (set from script when the embedding page reports
+		 * its scroll position). Native sticky can't work here because the
+		 * auto-height iframe never scrolls internally, so we drop sticky and let
+		 * a script-driven `translateY` keep the preview centered in the parent
+		 * viewport.
+		 */
+		.glyph-preview--emulated {
+			position: static;
+			top: auto;
+			will-change: transform;
+		}
+
 		/* Square box, capped at `--preview-max`, that the canvas fills. */
 		.glyph-preview__box {
 			width: min(100%, var(--preview-max));
@@ -974,6 +987,69 @@
 
 				format();
 			});
+		})();
+
+		// ---- Emulated sticky preview ----
+		// In an auto-height iframe the document never scrolls (the parent grows
+		// the frame to fit its content), so `position: sticky` has no scroll to
+		// react to and the preview just scrolls away with the grid. When the
+		// embedding page cooperates by posting its scroll position, translate the
+		// preview so it stays vertically centered in the parent's viewport,
+		// clamped within the grid column. Falls back to native CSS sticky when no
+		// such messages arrive (e.g. when this page is opened directly).
+		(function () {
+			"use strict";
+
+			const grid = document.querySelector(".glyphs-grid");
+			const preview = grid && grid.querySelector(".glyph-preview");
+			if (!preview) return;
+
+			let last = null; // most recent { iframeTop, viewportHeight }
+			let emulating = false;
+
+			function apply() {
+				if (!last) return;
+				if (!emulating) {
+					preview.classList.add("glyph-preview--emulated");
+					emulating = true;
+				}
+				// Measure the untransformed layout first.
+				preview.style.transform = "";
+				const naturalTop = preview.getBoundingClientRect().top;
+				const previewH = preview.offsetHeight;
+				const gridH = grid.offsetHeight;
+				const travel = Math.max(0, gridH - previewH);
+				// Document-space y of the parent viewport's vertical center. The
+				// iframe never scrolls, so client rects already are document coords.
+				const centerY = last.viewportHeight / 2 - last.iframeTop;
+				let translateY = centerY - previewH / 2 - naturalTop;
+				translateY = Math.max(0, Math.min(travel, translateY));
+				preview.style.transform = "translateY(" + translateY + "px)";
+			}
+
+			window.addEventListener("message", (event) => {
+				const data = event.data;
+				if (!data || data.type !== "mikam-kana:viewport") return;
+				if (
+					typeof data.iframeTop !== "number" ||
+					typeof data.viewportHeight !== "number"
+				) {
+					return;
+				}
+				last = { iframeTop: data.iframeTop, viewportHeight: data.viewportHeight };
+				apply();
+			});
+
+			// Re-clamp when the preview or grid changes size.
+			if ("ResizeObserver" in window) {
+				new ResizeObserver(() => apply()).observe(grid);
+			}
+
+			// Ask the embedding page for its current scroll position, in case it
+			// set up the cooperative listener.
+			if (window.parent !== window) {
+				window.parent.postMessage({ type: "mikam-kana:request-viewport" }, "*");
+			}
 		})();
 
 		// ---- Auto-height reporting ----
