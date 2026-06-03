@@ -18,6 +18,10 @@ The name Mìkam, which means “between”, is both a reference to the fact that
 
 ![Mixed sample: Mìkam Kana + Gen Interface JP](./documentation/mix-sample.png)
 
+![Sample: Finder](./documentation/finder.png)
+
+![Poster](./documentation/poster.png)
+
 ## Glyph Coverage 収録範囲
 
 This font covers space and the following hiragana, katakana, and selected punctuation characters. 
