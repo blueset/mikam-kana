@@ -55,9 +55,9 @@ Recommended pairing fonts: [Inter](https://rsms.me/inter), [Gen Interface JP](ht
 
 ## Download ダウンロード
 
-* [TTF](./fonts/MìkamKana/OpenType-TT/)
-* [OTF](./fonts/MìkamKana/OpenType-PS/)
-* [WOFF2](./fonts/MìkamKana/Web-PS/)
+* [TTF](https://github.com/blueset/mikam-kana/raw/refs/heads/master/fonts/MìkamKana/OpenType-TT/MìkamKana.ttf)
+* [OTF](https://github.com/blueset/mikam-kana/raw/refs/heads/master/fonts/MìkamKana/OpenType-PS/MìkamKana.otf)
+* [WOFF2](https://github.com/blueset/mikam-kana/raw/refs/heads/master/fonts/MìkamKana/Web-PS/MìkamKana.woff2)
 
 ## License ライセンス
 
