@@ -22,6 +22,8 @@ The name Mìkam, which means “between”, is both a reference to the fact that
 
 ![Poster](./documentation/poster.png)
 
+![Poster: Quiz](./documentation/quiz.png)
+
 ## Glyph Coverage 収録範囲
 
 This font covers space and the following hiragana, katakana, and selected punctuation characters. 
